@@ -1,0 +1,843 @@
+[
+  {
+    "id": "g001",
+    "level": "A1",
+    "title": "sein / haben",
+    "explanationRU": "Это два главных глагола. Их надо знать без думания, как таблицу умножения.",
+    "formula": "ich bin / ich habe; du bist / du hast; er ist / er hat; wir sind / wir haben",
+    "examples": [
+      {
+        "de": "Ich bin müde.",
+        "ru": "Я устал.",
+        "en": "I am tired."
+      },
+      {
+        "de": "Ich habe einen Termin.",
+        "ru": "У меня есть термин.",
+        "en": "I have an appointment."
+      },
+      {
+        "de": "Er ist krank.",
+        "ru": "Он болен.",
+        "en": "He is sick."
+      },
+      {
+        "de": "Wir haben Zeit.",
+        "ru": "У нас есть время.",
+        "en": "We have time."
+      },
+      {
+        "de": "Sie sind sehr nett.",
+        "ru": "Вы очень любезны.",
+        "en": "You are very kind."
+      }
+    ],
+    "exercises": [
+      {
+        "task": "Я из Туркменистана → Ich ___ aus Turkmenistan.",
+        "answer": "bin"
+      },
+      {
+        "task": "У меня есть вопрос → Ich ___ eine Frage.",
+        "answer": "habe"
+      },
+      {
+        "task": "Он болен → Er ___ krank.",
+        "answer": "ist"
+      },
+      {
+        "task": "У нас есть термин → Wir ___ einen Termin.",
+        "answer": "haben"
+      },
+      {
+        "task": "Вы очень любезны → Sie ___ sehr nett.",
+        "answer": "sind"
+      }
+    ],
+    "mistakesRU": [
+      "Не говорить ich habe müde — правильно ich bin müde.",
+      "Sie формальное всегда с большой буквы.",
+      "haben часто переводится как 'у меня есть', а не только 'иметь'."
+    ]
+  },
+  {
+    "id": "g002",
+    "level": "A1",
+    "title": "Порядок слов: Verb на позиции 2",
+    "explanationRU": "В обычном предложении спрягаемый глагол стоит на втором месте. Не вторым словом, а вторым смысловым блоком.",
+    "formula": "Position 1 + Verb + Subject + Rest",
+    "examples": [
+      {
+        "de": "Heute lerne ich Deutsch.",
+        "ru": "Сегодня я учу немецкий.",
+        "en": "Today I study German."
+      },
+      {
+        "de": "Ich lerne heute Deutsch.",
+        "ru": "Я сегодня учу немецкий.",
+        "en": "I study German today."
+      },
+      {
+        "de": "Am Montag habe ich einen Termin.",
+        "ru": "В понедельник у меня термин.",
+        "en": "On Monday I have an appointment."
+      },
+      {
+        "de": "Morgen gehe ich zum Arzt.",
+        "ru": "Завтра я иду к врачу.",
+        "en": "Tomorrow I go to the doctor."
+      },
+      {
+        "de": "In Chemnitz wohne ich mit meiner Familie.",
+        "ru": "В Хемнице я живу с семьёй.",
+        "en": "In Chemnitz I live with my family."
+      }
+    ],
+    "exercises": [
+      {
+        "task": "Heute / ich / Deutsch / lerne",
+        "answer": "Heute lerne ich Deutsch."
+      },
+      {
+        "task": "Morgen / ich / zum Arzt / gehe",
+        "answer": "Morgen gehe ich zum Arzt."
+      },
+      {
+        "task": "Am Freitag / wir / einen Termin / haben",
+        "answer": "Am Freitag haben wir einen Termin."
+      },
+      {
+        "task": "In Deutschland / ich / wohne",
+        "answer": "In Deutschland wohne ich."
+      },
+      {
+        "task": "Jetzt / ich / keine Zeit / habe",
+        "answer": "Jetzt habe ich keine Zeit."
+      }
+    ],
+    "mistakesRU": [
+      "После heute/morgen/am Montag сразу нужен глагол.",
+      "Не строить немецкое предложение по русскому порядку."
+    ]
+  },
+  {
+    "id": "g003",
+    "level": "A1",
+    "title": "W-Fragen и Ja/Nein-Fragen",
+    "explanationRU": "W-вопросы начинаются с вопросительного слова. В Ja/Nein вопросе глагол идёт первым.",
+    "formula": "W-Wort + Verb + Subject? / Verb + Subject + Rest?",
+    "examples": [
+      {
+        "de": "Wo wohnen Sie?",
+        "ru": "Где Вы живёте?",
+        "en": "Where do you live?"
+      },
+      {
+        "de": "Wie heißen Sie?",
+        "ru": "Как Вас зовут?",
+        "en": "What is your name?"
+      },
+      {
+        "de": "Haben Sie einen Termin?",
+        "ru": "У Вас есть термин?",
+        "en": "Do you have an appointment?"
+      },
+      {
+        "de": "Kommen Sie aus Chemnitz?",
+        "ru": "Вы из Хемница?",
+        "en": "Do you come from Chemnitz?"
+      },
+      {
+        "de": "Warum lernen Sie Deutsch?",
+        "ru": "Почему Вы учите немецкий?",
+        "en": "Why do you learn German?"
+      }
+    ],
+    "exercises": [
+      {
+        "task": "___ wohnen Sie? — In Chemnitz.",
+        "answer": "Wo"
+      },
+      {
+        "task": "___ heißen Sie? — Serdar.",
+        "answer": "Wie"
+      },
+      {
+        "task": "___ Sie einen Termin?",
+        "answer": "Haben"
+      },
+      {
+        "task": "___ lernen Sie Deutsch? — Für die Arbeit.",
+        "answer": "Warum"
+      },
+      {
+        "task": "___ kommen Sie? — Aus Turkmenistan.",
+        "answer": "Woher"
+      }
+    ],
+    "mistakesRU": [
+      "Не говорить Wo Sie wohnen? — правильно Wo wohnen Sie?",
+      "Ja/Nein вопрос начинается с глагола."
+    ]
+  },
+  {
+    "id": "g004",
+    "level": "A1",
+    "title": "Akkusativ basics",
+    "explanationRU": "Akkusativ нужен для прямого объекта: кого? что? Меняется в основном der → den.",
+    "formula": "der → den, die → die, das → das, ein → einen",
+    "examples": [
+      {
+        "de": "Ich habe einen Termin.",
+        "ru": "У меня есть термин.",
+        "en": "I have an appointment."
+      },
+      {
+        "de": "Ich brauche den Ausweis.",
+        "ru": "Мне нужно удостоверение.",
+        "en": "I need the ID."
+      },
+      {
+        "de": "Ich kaufe eine Karte.",
+        "ru": "Я покупаю билет/карту.",
+        "en": "I buy a ticket/card."
+      },
+      {
+        "de": "Ich sehe das Formular.",
+        "ru": "Я вижу формуляр.",
+        "en": "I see the form."
+      },
+      {
+        "de": "Ich suche einen Job.",
+        "ru": "Я ищу работу.",
+        "en": "I am looking for a job."
+      }
+    ],
+    "exercises": [
+      {
+        "task": "Ich brauche ___ Termin. (ein)",
+        "answer": "einen"
+      },
+      {
+        "task": "Ich sehe ___ Mann. (der)",
+        "answer": "den"
+      },
+      {
+        "task": "Ich kaufe ___ Karte. (eine)",
+        "answer": "eine"
+      },
+      {
+        "task": "Ich suche ___ Wohnung. (eine)",
+        "answer": "eine"
+      },
+      {
+        "task": "Ich habe ___ Problem. (ein)",
+        "answer": "ein"
+      }
+    ],
+    "mistakesRU": [
+      "Der меняется на den, но die/das обычно не меняются.",
+      "После haben/brauchen/suchen часто Akkusativ."
+    ]
+  },
+  {
+    "id": "g005",
+    "level": "A1",
+    "title": "nicht / kein",
+    "explanationRU": "kein отрицает существительное с неопределённым артиклем или без артикля. nicht отрицает глагол, прилагательное, всю ситуацию.",
+    "formula": "kein + Nomen / nicht + Verb-Adjektiv-Satz",
+    "examples": [
+      {
+        "de": "Ich habe keinen Termin.",
+        "ru": "У меня нет термина.",
+        "en": "I do not have an appointment."
+      },
+      {
+        "de": "Ich verstehe das nicht.",
+        "ru": "Я это не понимаю.",
+        "en": "I do not understand that."
+      },
+      {
+        "de": "Das ist nicht richtig.",
+        "ru": "Это неправильно.",
+        "en": "That is not correct."
+      },
+      {
+        "de": "Ich habe keine Zeit.",
+        "ru": "У меня нет времени.",
+        "en": "I have no time."
+      },
+      {
+        "de": "Ich komme heute nicht.",
+        "ru": "Я сегодня не приду.",
+        "en": "I am not coming today."
+      }
+    ],
+    "exercises": [
+      {
+        "task": "Ich habe ___ Auto.",
+        "answer": "kein"
+      },
+      {
+        "task": "Ich verstehe das ___.",
+        "answer": "nicht"
+      },
+      {
+        "task": "Das ist ___ meine Adresse.",
+        "answer": "nicht"
+      },
+      {
+        "task": "Ich habe ___ Frage.",
+        "answer": "keine"
+      },
+      {
+        "task": "Ich komme morgen ___.",
+        "answer": "nicht"
+      }
+    ],
+    "mistakesRU": [
+      "Не говорить ich habe nicht Termin — правильно keinen Termin.",
+      "kein склоняется как ein."
+    ]
+  },
+  {
+    "id": "g006",
+    "level": "A2",
+    "title": "Dativ basics",
+    "explanationRU": "Dativ отвечает часто на 'кому?' и идёт после mit, zu, bei, von, nach, aus, seit.",
+    "formula": "der→dem, die→der, das→dem, plural→den + n",
+    "examples": [
+      {
+        "de": "Ich gehe zum Arzt.",
+        "ru": "Я иду к врачу.",
+        "en": "I am going to the doctor."
+      },
+      {
+        "de": "Ich spreche mit der Sachbearbeiterin.",
+        "ru": "Я говорю с сотрудницей ведомства.",
+        "en": "I speak with the clerk."
+      },
+      {
+        "de": "Ich wohne bei meiner Familie.",
+        "ru": "Я живу у своей семьи.",
+        "en": "I live with my family."
+      },
+      {
+        "de": "Das Formular ist in der Tasche.",
+        "ru": "Формуляр в сумке.",
+        "en": "The form is in the bag."
+      },
+      {
+        "de": "Ich komme aus dem Büro.",
+        "ru": "Я иду из офиса.",
+        "en": "I come from the office."
+      }
+    ],
+    "exercises": [
+      {
+        "task": "mit ___ Arzt (der)",
+        "answer": "dem"
+      },
+      {
+        "task": "zu ___ Schule (die)",
+        "answer": "der"
+      },
+      {
+        "task": "aus ___ Haus (das)",
+        "answer": "dem"
+      },
+      {
+        "task": "bei ___ Eltern (die Pl.)",
+        "answer": "den Eltern"
+      },
+      {
+        "task": "nach ___ Arbeit (die)",
+        "answer": "der"
+      }
+    ],
+    "mistakesRU": [
+      "zu dem = zum, zu der = zur.",
+      "После mit почти всегда Dativ."
+    ]
+  },
+  {
+    "id": "g007",
+    "level": "A2",
+    "title": "Perfekt",
+    "explanationRU": "Perfekt — главное прошедшее время для разговора. Нужен haben/sein + Partizip II.",
+    "formula": "Subject + haben/sein + ... + Partizip II",
+    "examples": [
+      {
+        "de": "Ich habe die Unterlagen geschickt.",
+        "ru": "Я отправил документы.",
+        "en": "I sent the documents."
+      },
+      {
+        "de": "Ich bin zum Arzt gegangen.",
+        "ru": "Я сходил к врачу.",
+        "en": "I went to the doctor."
+      },
+      {
+        "de": "Wir haben einen Termin gemacht.",
+        "ru": "Мы назначили термин.",
+        "en": "We made an appointment."
+      },
+      {
+        "de": "Der Zug ist angekommen.",
+        "ru": "Поезд прибыл.",
+        "en": "The train arrived."
+      },
+      {
+        "de": "Ich habe Deutsch gelernt.",
+        "ru": "Я учил немецкий.",
+        "en": "I studied German."
+      }
+    ],
+    "exercises": [
+      {
+        "task": "Ich ___ Deutsch gelernt.",
+        "answer": "habe"
+      },
+      {
+        "task": "Ich ___ nach Hause gegangen.",
+        "answer": "bin"
+      },
+      {
+        "task": "Wir haben einen Termin ___.",
+        "answer": "gemacht"
+      },
+      {
+        "task": "Der Bus ist spät ___.",
+        "answer": "angekommen"
+      },
+      {
+        "task": "Ich habe die E-Mail ___.",
+        "answer": "geschickt"
+      }
+    ],
+    "mistakesRU": [
+      "Движение/смена состояния часто с sein: gegangen, gekommen, gefahren.",
+      "Partizip II в конце предложения."
+    ]
+  },
+  {
+    "id": "g008",
+    "level": "A2",
+    "title": "weil / dass / wenn",
+    "explanationRU": "После weil, dass, wenn спрягаемый глагол уходит в конец придаточного предложения.",
+    "formula": "Hauptsatz, weil/dass/wenn + Subject + ... + Verb",
+    "examples": [
+      {
+        "de": "Ich lerne Deutsch, weil ich arbeiten möchte.",
+        "ru": "Я учу немецкий, потому что хочу работать.",
+        "en": "I learn German because I want to work."
+      },
+      {
+        "de": "Ich glaube, dass der Termin morgen ist.",
+        "ru": "Я думаю, что термин завтра.",
+        "en": "I think that the appointment is tomorrow."
+      },
+      {
+        "de": "Wenn ich Zeit habe, wiederhole ich Wörter.",
+        "ru": "Когда у меня есть время, я повторяю слова.",
+        "en": "When I have time, I review words."
+      },
+      {
+        "de": "Ich komme später, weil mein Kind krank ist.",
+        "ru": "Я приду позже, потому что мой ребёнок болеет.",
+        "en": "I will come later because my child is sick."
+      },
+      {
+        "de": "Ich hoffe, dass Sie mir helfen können.",
+        "ru": "Я надеюсь, что Вы можете мне помочь.",
+        "en": "I hope that you can help me."
+      }
+    ],
+    "exercises": [
+      {
+        "task": "Ich lerne Deutsch, weil ich arbeiten ___.",
+        "answer": "möchte"
+      },
+      {
+        "task": "Ich glaube, dass der Termin heute ___.",
+        "answer": "ist"
+      },
+      {
+        "task": "Wenn ich Zeit ___, lerne ich.",
+        "answer": "habe"
+      },
+      {
+        "task": "Ich komme nicht, weil ich krank ___.",
+        "answer": "bin"
+      },
+      {
+        "task": "Ich hoffe, dass Sie mir helfen ___.",
+        "answer": "können"
+      }
+    ],
+    "mistakesRU": [
+      "Не оставлять глагол на втором месте после weil/dass/wenn.",
+      "Если придаточное сначала: Wenn ich Zeit habe, lerne ich Deutsch."
+    ]
+  },
+  {
+    "id": "g009",
+    "level": "B1",
+    "title": "Relativsätze",
+    "explanationRU": "Относительные предложения уточняют существительное: который/которая/которое. Глагол в конце.",
+    "formula": "Nomen + Relativpronomen + ... + Verb",
+    "examples": [
+      {
+        "de": "Das ist der Mann, der mir geholfen hat.",
+        "ru": "Это мужчина, который мне помог.",
+        "en": "This is the man who helped me."
+      },
+      {
+        "de": "Das ist die Frau, die im Büro arbeitet.",
+        "ru": "Это женщина, которая работает в офисе.",
+        "en": "This is the woman who works in the office."
+      },
+      {
+        "de": "Das ist das Dokument, das ich brauche.",
+        "ru": "Это документ, который мне нужен.",
+        "en": "This is the document that I need."
+      },
+      {
+        "de": "Das sind die Unterlagen, die ich eingereicht habe.",
+        "ru": "Это документы, которые я подал.",
+        "en": "These are the documents that I submitted."
+      },
+      {
+        "de": "Ich suche eine Stelle, die zu meiner Erfahrung passt.",
+        "ru": "Я ищу должность, которая подходит моему опыту.",
+        "en": "I am looking for a position that fits my experience."
+      }
+    ],
+    "exercises": [
+      {
+        "task": "der Mann, ___ hier arbeitet",
+        "answer": "der"
+      },
+      {
+        "task": "die Frau, ___ ich angerufen habe",
+        "answer": "die"
+      },
+      {
+        "task": "das Formular, ___ ich brauche",
+        "answer": "das"
+      },
+      {
+        "task": "die Unterlagen, ___ fehlen",
+        "answer": "die"
+      },
+      {
+        "task": "eine Stelle, ___ zu mir passt",
+        "answer": "die"
+      }
+    ],
+    "mistakesRU": [
+      "Род относительного местоимения берём от существительного перед ним.",
+      "Глагол в Relativsatz в конце."
+    ]
+  },
+  {
+    "id": "g010",
+    "level": "B1",
+    "title": "Konjunktiv II höflich",
+    "explanationRU": "Для вежливых просьб: könnte, würde, hätte, wäre. Это звучит намного лучше в Behörden.",
+    "formula": "Könnten Sie ...? / Ich hätte gern ... / Ich würde gern ...",
+    "examples": [
+      {
+        "de": "Könnten Sie mir bitte helfen?",
+        "ru": "Не могли бы Вы мне помочь?",
+        "en": "Could you please help me?"
+      },
+      {
+        "de": "Ich hätte gern einen Termin.",
+        "ru": "Я хотел бы термин.",
+        "en": "I would like an appointment."
+      },
+      {
+        "de": "Ich würde gern meine Situation erklären.",
+        "ru": "Я хотел бы объяснить свою ситуацию.",
+        "en": "I would like to explain my situation."
+      },
+      {
+        "de": "Wäre es möglich, die Frist zu verlängern?",
+        "ru": "Было бы возможно продлить срок?",
+        "en": "Would it be possible to extend the deadline?"
+      },
+      {
+        "de": "Könnten Sie das bitte schriftlich bestätigen?",
+        "ru": "Могли бы Вы это письменно подтвердить?",
+        "en": "Could you confirm that in writing?"
+      }
+    ],
+    "exercises": [
+      {
+        "task": "___ Sie mir bitte helfen?",
+        "answer": "Könnten"
+      },
+      {
+        "task": "Ich ___ gern einen Termin.",
+        "answer": "hätte"
+      },
+      {
+        "task": "Ich ___ gern etwas fragen.",
+        "answer": "würde"
+      },
+      {
+        "task": "___ es möglich?",
+        "answer": "Wäre"
+      },
+      {
+        "task": "Könnten Sie das schriftlich ___?",
+        "answer": "bestätigen"
+      }
+    ],
+    "mistakesRU": [
+      "Ich will звучит грубее. Лучше Ich möchte / Ich hätte gern / Ich würde gern.",
+      "Вежливость в Германии реально экономит нервы."
+    ]
+  },
+  {
+    "id": "g011",
+    "level": "B1",
+    "title": "Passiv basics",
+    "explanationRU": "Passiv нужен, когда важен процесс, а не кто делает. В документах это постоянно.",
+    "formula": "werden + Partizip II",
+    "examples": [
+      {
+        "de": "Die Kopie wird beglaubigt.",
+        "ru": "Копия заверяется.",
+        "en": "The copy is certified."
+      },
+      {
+        "de": "Der Antrag wird geprüft.",
+        "ru": "Заявление проверяется.",
+        "en": "The application is being checked."
+      },
+      {
+        "de": "Die Unterlagen werden bearbeitet.",
+        "ru": "Документы обрабатываются.",
+        "en": "The documents are processed."
+      },
+      {
+        "de": "Der Termin wurde verschoben.",
+        "ru": "Термин был перенесён.",
+        "en": "The appointment was postponed."
+      },
+      {
+        "de": "Die E-Mail wurde geschickt.",
+        "ru": "Email был отправлен.",
+        "en": "The email was sent."
+      }
+    ],
+    "exercises": [
+      {
+        "task": "Die Kopie ___ beglaubigt.",
+        "answer": "wird"
+      },
+      {
+        "task": "Der Antrag wird ___.",
+        "answer": "geprüft"
+      },
+      {
+        "task": "Die Unterlagen ___ bearbeitet.",
+        "answer": "werden"
+      },
+      {
+        "task": "Der Termin wurde ___.",
+        "answer": "verschoben"
+      },
+      {
+        "task": "Die E-Mail wurde ___.",
+        "answer": "geschickt"
+      }
+    ],
+    "mistakesRU": [
+      "werden в Passiv — не future, а вспомогательный глагол.",
+      "Partizip II в конце."
+    ]
+  },
+  {
+    "id": "g012",
+    "level": "B1",
+    "title": "Infinitiv mit zu",
+    "explanationRU": "zu + Infinitiv нужен после многих выражений: versuchen, wichtig sein, möglich sein, Zeit haben.",
+    "formula": "..., zu + Infinitiv",
+    "examples": [
+      {
+        "de": "Ich versuche, jeden Tag Deutsch zu sprechen.",
+        "ru": "Я пытаюсь говорить по-немецки каждый день.",
+        "en": "I try to speak German every day."
+      },
+      {
+        "de": "Es ist wichtig, die Frist einzuhalten.",
+        "ru": "Важно соблюдать срок.",
+        "en": "It is important to meet the deadline."
+      },
+      {
+        "de": "Ich habe keine Zeit, das Formular auszufüllen.",
+        "ru": "У меня нет времени заполнить формуляр.",
+        "en": "I have no time to fill out the form."
+      },
+      {
+        "de": "Es ist möglich, den Termin zu verschieben.",
+        "ru": "Возможно перенести термин.",
+        "en": "It is possible to postpone the appointment."
+      },
+      {
+        "de": "Ich bitte Sie, mir kurz zu antworten.",
+        "ru": "Прошу Вас коротко ответить мне.",
+        "en": "I ask you to reply briefly."
+      }
+    ],
+    "exercises": [
+      {
+        "task": "Ich versuche, Deutsch ___ sprechen.",
+        "answer": "zu"
+      },
+      {
+        "task": "Es ist wichtig, pünktlich ___ sein.",
+        "answer": "zu"
+      },
+      {
+        "task": "Ich habe Zeit, das Formular ___.",
+        "answer": "auszufüllen"
+      },
+      {
+        "task": "Es ist möglich, den Termin ___.",
+        "answer": "zu verschieben"
+      },
+      {
+        "task": "Ich bitte Sie, mir ___ antworten.",
+        "answer": "zu"
+      }
+    ],
+    "mistakesRU": [
+      "С separable verbs zu вставляется внутрь: auszufüllen, einzureichen.",
+      "После Modalverb zu не нужен: Ich kann kommen."
+    ]
+  },
+  {
+    "id": "g013",
+    "level": "B2",
+    "title": "Nominalstil basics",
+    "explanationRU": "B2-стиль часто заменяет глагол существительным. Это нужно для писем, работы и официальных текстов.",
+    "formula": "Verbalsatz → Nominalisierung: weil ich krank bin → wegen Krankheit",
+    "examples": [
+      {
+        "de": "Wegen Krankheit kann ich heute nicht kommen.",
+        "ru": "Из-за болезни я сегодня не могу прийти.",
+        "en": "Due to illness I cannot come today."
+      },
+      {
+        "de": "Nach Prüfung der Unterlagen erhalten Sie eine Antwort.",
+        "ru": "После проверки документов Вы получите ответ.",
+        "en": "After review of the documents you will receive an answer."
+      },
+      {
+        "de": "Zur Klärung des Falls brauche ich Ihre Rückmeldung.",
+        "ru": "Для прояснения случая мне нужен Ваш ответ.",
+        "en": "To clarify the case I need your feedback."
+      },
+      {
+        "de": "Bei Rückfragen stehe ich gern zur Verfügung.",
+        "ru": "При вопросах я охотно на связи.",
+        "en": "I am available for questions."
+      },
+      {
+        "de": "Die Bearbeitung dauert zwei Wochen.",
+        "ru": "Обработка длится две недели.",
+        "en": "Processing takes two weeks."
+      }
+    ],
+    "exercises": [
+      {
+        "task": "wegen ___ (krank)",
+        "answer": "Krankheit"
+      },
+      {
+        "task": "zur ___ des Falls (klären)",
+        "answer": "Klärung"
+      },
+      {
+        "task": "nach ___ der Unterlagen (prüfen)",
+        "answer": "Prüfung"
+      },
+      {
+        "task": "die ___ dauert zwei Wochen (bearbeiten)",
+        "answer": "Bearbeitung"
+      },
+      {
+        "task": "bei ___ (fragen zurück)",
+        "answer": "Rückfragen"
+      }
+    ],
+    "mistakesRU": [
+      "Nominalstil звучит официально, но им нельзя забивать обычный разговор.",
+      "В бытовой речи лучше проще."
+    ]
+  },
+  {
+    "id": "g014",
+    "level": "B2",
+    "title": "Argumentation",
+    "explanationRU": "B2 — это не только слова, а умение объяснить позицию: тезис, причина, пример, вывод.",
+    "formula": "Meiner Meinung nach ... / Ein Grund dafür ist ... / Zum Beispiel ... / Deshalb ...",
+    "examples": [
+      {
+        "de": "Meiner Meinung nach ist Deutsch für die Arbeit sehr wichtig.",
+        "ru": "По моему мнению, немецкий очень важен для работы.",
+        "en": "In my opinion, German is very important for work."
+      },
+      {
+        "de": "Ein Grund dafür ist die Kommunikation mit Kollegen.",
+        "ru": "Одна причина — коммуникация с коллегами.",
+        "en": "One reason for this is communication with colleagues."
+      },
+      {
+        "de": "Zum Beispiel muss man Probleme klar erklären können.",
+        "ru": "Например, нужно уметь ясно объяснять проблемы.",
+        "en": "For example, one must be able to explain problems clearly."
+      },
+      {
+        "de": "Einerseits ist es schwierig, andererseits lohnt es sich.",
+        "ru": "С одной стороны, это трудно, с другой — оно того стоит.",
+        "en": "On the one hand it is difficult, on the other hand it is worth it."
+      },
+      {
+        "de": "Zusammenfassend kann man sagen, dass tägliche Praxis entscheidend ist.",
+        "ru": "В итоге можно сказать, что ежедневная практика решающая.",
+        "en": "In summary, daily practice is decisive."
+      }
+    ],
+    "exercises": [
+      {
+        "task": "___ Meinung nach ...",
+        "answer": "Meiner"
+      },
+      {
+        "task": "Ein Grund ___ ist ...",
+        "answer": "dafür"
+      },
+      {
+        "task": "___ Beispiel ...",
+        "answer": "Zum"
+      },
+      {
+        "task": "Einerseits ..., ___ ...",
+        "answer": "andererseits"
+      },
+      {
+        "task": "Zusammenfassend kann man ___, dass ...",
+        "answer": "sagen"
+      }
+    ],
+    "mistakesRU": [
+      "Не говорить длинно без структуры. Немцам нужна логика.",
+      "Один тезис — один пример — один вывод."
+    ]
+  }
+]

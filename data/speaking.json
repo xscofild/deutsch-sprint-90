@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "s001",
+    "level": "A1-B1",
+    "topic": "Alltag sprechen",
+    "phrases": [
+      {
+        "de": "Wie war Ihr Tag? — Mein Tag war gut, aber ein bisschen anstrengend.",
+        "ru": "Как прошёл Ваш день? — День был хороший, но немного напряжённый.",
+        "en": "How was your day? — My day was good but a bit exhausting."
+      },
+      {
+        "de": "Was haben Sie heute gemacht? — Ich habe gelernt, gearbeitet und Zeit mit meiner Familie verbracht.",
+        "ru": "Что Вы сегодня делали? — Я учился, работал и провёл время с семьёй.",
+        "en": "What did you do today? — I studied, worked and spent time with my family."
+      },
+      {
+        "de": "Könnten Sie bitte langsamer sprechen?",
+        "ru": "Не могли бы Вы говорить медленнее?",
+        "en": "Could you please speak more slowly?"
+      },
+      {
+        "de": "Ich bin noch dabei, Deutsch zu lernen.",
+        "ru": "Я ещё учу немецкий.",
+        "en": "I am still learning German."
+      },
+      {
+        "de": "Ich möchte sicher sein, dass ich alles richtig verstanden habe.",
+        "ru": "Я хочу быть уверен, что всё правильно понял.",
+        "en": "I want to be sure that I understood everything correctly."
+      },
+      {
+        "de": "Könnten Sie mir das bitte schriftlich geben?",
+        "ru": "Могли бы Вы дать мне это письменно?",
+        "en": "Could you please give that to me in writing?"
+      },
+      {
+        "de": "Was soll ich als Nächstes machen?",
+        "ru": "Что мне делать дальше?",
+        "en": "What should I do next?"
+      },
+      {
+        "de": "Bis wann muss ich das erledigen?",
+        "ru": "До какого срока я должен это сделать?",
+        "en": "By when do I have to do this?"
+      },
+      {
+        "de": "Ich kann die Unterlagen heute noch schicken.",
+        "ru": "Я могу отправить документы ещё сегодня.",
+        "en": "I can send the documents today."
+      },
+      {
+        "de": "Ich melde mich später noch einmal.",
+        "ru": "Я свяжусь ещё раз позже.",
+        "en": "I will contact you again later."
+      },
+      {
+        "de": "Das passt mir leider nicht.",
+        "ru": "К сожалению, мне это не подходит.",
+        "en": "Unfortunately, that does not work for me."
+      },
+      {
+        "de": "Das passt mir gut.",
+        "ru": "Мне это хорошо подходит.",
+        "en": "That works well for me."
+      },
+      {
+        "de": "Ich brauche bitte eine kurze Bestätigung.",
+        "ru": "Мне нужно короткое подтверждение.",
+        "en": "I need a brief confirmation."
+      },
+      {
+        "de": "Ich habe dazu noch eine Frage.",
+        "ru": "У меня есть ещё один вопрос по этому поводу.",
+        "en": "I have one more question about that."
+      },
+      {
+        "de": "Entschuldigung, ich habe Sie nicht verstanden.",
+        "ru": "Извините, я Вас не понял.",
+        "en": "Sorry, I did not understand you."
+      },
+      {
+        "de": "Könnten Sie mir ein Beispiel geben?",
+        "ru": "Могли бы Вы привести пример?",
+        "en": "Could you give me an example?"
+      },
+      {
+        "de": "Vielen Dank für Ihre Hilfe.",
+        "ru": "Большое спасибо за Вашу помощь.",
+        "en": "Thank you very much for your help."
+      },
+      {
+        "de": "Ich wünsche Ihnen einen schönen Tag.",
+        "ru": "Желаю Вам хорошего дня.",
+        "en": "Have a nice day."
+      }
+    ],
+    "dialogue": [
+      {
+        "de": "Guten Tag, wie kann ich Ihnen helfen?",
+        "ru": "Добрый день, чем я могу Вам помочь?",
+        "en": "Good day, how can I help you?"
+      },
+      {
+        "de": "Wie war Ihr Tag? — Mein Tag war gut, aber ein bisschen anstrengend.",
+        "ru": "Как прошёл Ваш день? — День был хороший, но немного напряжённый.",
+        "en": "How was your day? — My day was good but a bit exhausting."
+      },
+      {
+        "de": "Natürlich. Einen Moment bitte.",
+        "ru": "Конечно. Один момент, пожалуйста.",
+        "en": "Of course. One moment, please."
+      }
+    ],
+    "rolePlay": [
+      "Позвони и попроси термин.",
+      "Объясни проблему в 3 предложениях.",
+      "Попроси письменное подтверждение.",
+      "Скажи, что ты ещё учишь немецкий и попроси говорить медленнее."
+    ]
+  },
+  {
+    "id": "s002",
+    "level": "A1-B1",
+    "topic": "Behörden sprechen",
+    "phrases": [
+      {
+        "de": "Ich habe eine Frage zu meinem Antrag.",
+        "ru": "У меня вопрос по моему заявлению.",
+        "en": "I have a question about my application."
+      },
+      {
+        "de": "Könnten Sie mir bitte sagen, welche Unterlagen fehlen?",
+        "ru": "Могли бы Вы сказать, каких документов не хватает?",
+        "en": "Could you please tell me which documents are missing?"
+      },
+      {
+        "de": "Könnten Sie bitte langsamer sprechen?",
+        "ru": "Не могли бы Вы говорить медленнее?",
+        "en": "Could you please speak more slowly?"
+      },
+      {
+        "de": "Ich bin noch dabei, Deutsch zu lernen.",
+        "ru": "Я ещё учу немецкий.",
+        "en": "I am still learning German."
+      },
+      {
+        "de": "Ich möchte sicher sein, dass ich alles richtig verstanden habe.",
+        "ru": "Я хочу быть уверен, что всё правильно понял.",
+        "en": "I want to be sure that I understood everything correctly."
+      },
+      {
+        "de": "Könnten Sie mir das bitte schriftlich geben?",
+        "ru": "Могли бы Вы дать мне это письменно?",
+        "en": "Could you please give that to me in writing?"
+      },
+      {
+        "de": "Was soll ich als Nächstes machen?",
+        "ru": "Что мне делать дальше?",
+        "en": "What should I do next?"
+      },
+      {
+        "de": "Bis wann muss ich das erledigen?",
+        "ru": "До какого срока я должен это сделать?",
+        "en": "By when do I have to do this?"
+      },
+      {
+        "de": "Ich kann die Unterlagen heute noch schicken.",
+        "ru": "Я могу отправить документы ещё сегодня.",
+        "en": "I can send the documents today."
+      },
+      {
+        "de": "Ich melde mich später noch einmal.",
+        "ru": "Я свяжусь ещё раз позже.",
+        "en": "I will contact you again later."
+      },
+      {
+        "de": "Das passt mir leider nicht.",
+        "ru": "К сожалению, мне это не подходит.",
+        "en": "Unfortunately, that does not work for me."
+      },
+      {
+        "de": "Das passt mir gut.",
+        "ru": "Мне это хорошо подходит.",
+        "en": "That works well for me."
+      },
+      {
+        "de": "Ich brauche bitte eine kurze Bestätigung.",
+        "ru": "Мне нужно короткое подтверждение.",
+        "en": "I need a brief confirmation."
+      },
+      {
+        "de": "Ich habe dazu noch eine Frage.",
+        "ru": "У меня есть ещё один вопрос по этому поводу.",
+        "en": "I have one more question about that."
+      },
+      {
+        "de": "Entschuldigung, ich habe Sie nicht verstanden.",
+        "ru": "Извините, я Вас не понял.",
+        "en": "Sorry, I did not understand you."
+      },
+      {
+        "de": "Könnten Sie mir ein Beispiel geben?",
+        "ru": "Могли бы Вы привести пример?",
+        "en": "Could you give me an example?"
+      },
+      {
+        "de": "Vielen Dank für Ihre Hilfe.",
+        "ru": "Большое спасибо за Вашу помощь.",
+        "en": "Thank you very much for your help."
+      },
+      {
+        "de": "Ich wünsche Ihnen einen schönen Tag.",
+        "ru": "Желаю Вам хорошего дня.",
+        "en": "Have a nice day."
+      }
+    ],
+    "dialogue": [
+      {
+        "de": "Guten Tag, wie kann ich Ihnen helfen?",
+        "ru": "Добрый день, чем я могу Вам помочь?",
+        "en": "Good day, how can I help you?"
+      },
+      {
+        "de": "Ich habe eine Frage zu meinem Antrag.",
+        "ru": "У меня вопрос по моему заявлению.",
+        "en": "I have a question about my application."
+      },
+      {
+        "de": "Natürlich. Einen Moment bitte.",
+        "ru": "Конечно. Один момент, пожалуйста.",
+        "en": "Of course. One moment, please."
+      }
+    ],
+    "rolePlay": [
+      "Позвони и попроси термин.",
+      "Объясни проблему в 3 предложениях.",
+      "Попроси письменное подтверждение.",
+      "Скажи, что ты ещё учишь немецкий и попроси говорить медленнее."
+    ]
+  },
+  {
+    "id": "s003",
+    "level": "A1-B1",
+    "topic": "Arzt",
+    "phrases": [
+      {
+        "de": "Ich brauche einen Termin beim Arzt.",
+        "ru": "Мне нужен термин к врачу.",
+        "en": "I need a doctor's appointment."
+      },
+      {
+        "de": "Mein Kind hat Fieber.",
+        "ru": "У моего ребёнка температура.",
+        "en": "My child has a fever."
+      },
+      {
+        "de": "Könnten Sie bitte langsamer sprechen?",
+        "ru": "Не могли бы Вы говорить медленнее?",
+        "en": "Could you please speak more slowly?"
+      },
+      {
+        "de": "Ich bin noch dabei, Deutsch zu lernen.",
+        "ru": "Я ещё учу немецкий.",
+        "en": "I am still learning German."
+      },
+      {
+        "de": "Ich möchte sicher sein, dass ich alles richtig verstanden habe.",
+        "ru": "Я хочу быть уверен, что всё правильно понял.",
+        "en": "I want to be sure that I understood everything correctly."
+      },
+      {
+        "de": "Könnten Sie mir das bitte schriftlich geben?",
+        "ru": "Могли бы Вы дать мне это письменно?",
+        "en": "Could you please give that to me in writing?"
+      },
+      {
+        "de": "Was soll ich als Nächstes machen?",
+        "ru": "Что мне делать дальше?",
+        "en": "What should I do next?"
+      },
+      {
+        "de": "Bis wann muss ich das erledigen?",
+        "ru": "До какого срока я должен это сделать?",
+        "en": "By when do I have to do this?"
+      },
+      {
+        "de": "Ich kann die Unterlagen heute noch schicken.",
+        "ru": "Я могу отправить документы ещё сегодня.",
+        "en": "I can send the documents today."
+      },
+      {
+        "de": "Ich melde mich später noch einmal.",
+        "ru": "Я свяжусь ещё раз позже.",
+        "en": "I will contact you again later."
+      },
+      {
+        "de": "Das passt mir leider nicht.",
+        "ru": "К сожалению, мне это не подходит.",
+        "en": "Unfortunately, that does not work for me."
+      },
+      {
+        "de": "Das passt mir gut.",
+        "ru": "Мне это хорошо подходит.",
+        "en": "That works well for me."
+      },
+      {
+        "de": "Ich brauche bitte eine kurze Bestätigung.",
+        "ru": "Мне нужно короткое подтверждение.",
+        "en": "I need a brief confirmation."
+      },
+      {
+        "de": "Ich habe dazu noch eine Frage.",
+        "ru": "У меня есть ещё один вопрос по этому поводу.",
+        "en": "I have one more question about that."
+      },
+      {
+        "de": "Entschuldigung, ich habe Sie nicht verstanden.",
+        "ru": "Извините, я Вас не понял.",
+        "en": "Sorry, I did not understand you."
+      },
+      {
+        "de": "Könnten Sie mir ein Beispiel geben?",
+        "ru": "Могли бы Вы привести пример?",
+        "en": "Could you give me an example?"
+      },
+      {
+        "de": "Vielen Dank für Ihre Hilfe.",
+        "ru": "Большое спасибо за Вашу помощь.",
+        "en": "Thank you very much for your help."
+      },
+      {
+        "de": "Ich wünsche Ihnen einen schönen Tag.",
+        "ru": "Желаю Вам хорошего дня.",
+        "en": "Have a nice day."
+      }
+    ],
+    "dialogue": [
+      {
+        "de": "Guten Tag, wie kann ich Ihnen helfen?",
+        "ru": "Добрый день, чем я могу Вам помочь?",
+        "en": "Good day, how can I help you?"
+      },
+      {
+        "de": "Ich brauche einen Termin beim Arzt.",
+        "ru": "Мне нужен термин к врачу.",
+        "en": "I need a doctor's appointment."
+      },
+      {
+        "de": "Natürlich. Einen Moment bitte.",
+        "ru": "Конечно. Один момент, пожалуйста.",
+        "en": "Of course. One moment, please."
+      }
+    ],
+    "rolePlay": [
+      "Позвони и попроси термин.",
+      "Объясни проблему в 3 предложениях.",
+      "Попроси письменное подтверждение.",
+      "Скажи, что ты ещё учишь немецкий и попроси говорить медленнее."
+    ]
+  },
+  {
+    "id": "s004",
+    "level": "A1-B1",
+    "topic": "Kindergarten",
+    "phrases": [
+      {
+        "de": "Mein Kind kann heute nicht kommen, weil es krank ist.",
+        "ru": "Мой ребёнок сегодня не может прийти, потому что болеет.",
+        "en": "My child cannot come today because he/she is sick."
+      },
+      {
+        "de": "Wann soll ich mein Kind abholen?",
+        "ru": "Когда мне забрать ребёнка?",
+        "en": "When should I pick up my child?"
+      },
+      {
+        "de": "Könnten Sie bitte langsamer sprechen?",
+        "ru": "Не могли бы Вы говорить медленнее?",
+        "en": "Could you please speak more slowly?"
+      },
+      {
+        "de": "Ich bin noch dabei, Deutsch zu lernen.",
+        "ru": "Я ещё учу немецкий.",
+        "en": "I am still learning German."
+      },
+      {
+        "de": "Ich möchte sicher sein, dass ich alles richtig verstanden habe.",
+        "ru": "Я хочу быть уверен, что всё правильно понял.",
+        "en": "I want to be sure that I understood everything correctly."
+      },
+      {
+        "de": "Könnten Sie mir das bitte schriftlich geben?",
+        "ru": "Могли бы Вы дать мне это письменно?",
+        "en": "Could you please give that to me in writing?"
+      },
+      {
+        "de": "Was soll ich als Nächstes machen?",
+        "ru": "Что мне делать дальше?",
+        "en": "What should I do next?"
+      },
+      {
+        "de": "Bis wann muss ich das erledigen?",
+        "ru": "До какого срока я должен это сделать?",
+        "en": "By when do I have to do this?"
+      },
+      {
+        "de": "Ich kann die Unterlagen heute noch schicken.",
+        "ru": "Я могу отправить документы ещё сегодня.",
+        "en": "I can send the documents today."
+      },
+      {
+        "de": "Ich melde mich später noch einmal.",
+        "ru": "Я свяжусь ещё раз позже.",
+        "en": "I will contact you again later."
+      },
+      {
+        "de": "Das passt mir leider nicht.",
+        "ru": "К сожалению, мне это не подходит.",
+        "en": "Unfortunately, that does not work for me."
+      },
+      {
+        "de": "Das passt mir gut.",
+        "ru": "Мне это хорошо подходит.",
+        "en": "That works well for me."
+      },
+      {
+        "de": "Ich brauche bitte eine kurze Bestätigung.",
+        "ru": "Мне нужно короткое подтверждение.",
+        "en": "I need a brief confirmation."
+      },
+      {
+        "de": "Ich habe dazu noch eine Frage.",
+        "ru": "У меня есть ещё один вопрос по этому поводу.",
+        "en": "I have one more question about that."
+      },
+      {
+        "de": "Entschuldigung, ich habe Sie nicht verstanden.",
+        "ru": "Извините, я Вас не понял.",
+        "en": "Sorry, I did not understand you."
+      },
+      {
+        "de": "Könnten Sie mir ein Beispiel geben?",
+        "ru": "Могли бы Вы привести пример?",
+        "en": "Could you give me an example?"
+      },
+      {
+        "de": "Vielen Dank für Ihre Hilfe.",
+        "ru": "Большое спасибо за Вашу помощь.",
+        "en": "Thank you very much for your help."
+      },
+      {
+        "de": "Ich wünsche Ihnen einen schönen Tag.",
+        "ru": "Желаю Вам хорошего дня.",
+        "en": "Have a nice day."
+      }
+    ],
+    "dialogue": [
+      {
+        "de": "Guten Tag, wie kann ich Ihnen helfen?",
+        "ru": "Добрый день, чем я могу Вам помочь?",
+        "en": "Good day, how can I help you?"
+      },
+      {
+        "de": "Mein Kind kann heute nicht kommen, weil es krank ist.",
+        "ru": "Мой ребёнок сегодня не может прийти, потому что болеет.",
+        "en": "My child cannot come today because he/she is sick."
+      },
+      {
+        "de": "Natürlich. Einen Moment bitte.",
+        "ru": "Конечно. Один момент, пожалуйста.",
+        "en": "Of course. One moment, please."
+      }
+    ],
+    "rolePlay": [
+      "Позвони и попроси термин.",
+      "Объясни проблему в 3 предложениях.",
+      "Попроси письменное подтверждение.",
+      "Скажи, что ты ещё учишь немецкий и попроси говорить медленнее."
+    ]
+  },
+  {
+    "id": "s005",
+    "level": "A1-B1",
+    "topic": "Wohnung",
+    "phrases": [
+      {
+        "de": "Ich habe ein Problem in der Wohnung.",
+        "ru": "У меня проблема в квартире.",
+        "en": "I have a problem in the apartment."
+      },
+      {
+        "de": "Die Heizung funktioniert nicht.",
+        "ru": "Отопление не работает.",
+        "en": "The heating does not work."
+      },
+      {
+        "de": "Könnten Sie bitte langsamer sprechen?",
+        "ru": "Не могли бы Вы говорить медленнее?",
+        "en": "Could you please speak more slowly?"
+      },
+      {
+        "de": "Ich bin noch dabei, Deutsch zu lernen.",
+        "ru": "Я ещё учу немецкий.",
+        "en": "I am still learning German."
+      },
+      {
+        "de": "Ich möchte sicher sein, dass ich alles richtig verstanden habe.",
+        "ru": "Я хочу быть уверен, что всё правильно понял.",
+        "en": "I want to be sure that I understood everything correctly."
+      },
+      {
+        "de": "Könnten Sie mir das bitte schriftlich geben?",
+        "ru": "Могли бы Вы дать мне это письменно?",
+        "en": "Could you please give that to me in writing?"
+      },
+      {
+        "de": "Was soll ich als Nächstes machen?",
+        "ru": "Что мне делать дальше?",
+        "en": "What should I do next?"
+      },
+      {
+        "de": "Bis wann muss ich das erledigen?",
+        "ru": "До какого срока я должен это сделать?",
+        "en": "By when do I have to do this?"
+      },
+      {
+        "de": "Ich kann die Unterlagen heute noch schicken.",
+        "ru": "Я могу отправить документы ещё сегодня.",
+        "en": "I can send the documents today."
+      },
+      {
+        "de": "Ich melde mich später noch einmal.",
+        "ru": "Я свяжусь ещё раз позже.",
+        "en": "I will contact you again later."
+      },
+      {
+        "de": "Das passt mir leider nicht.",
+        "ru": "К сожалению, мне это не подходит.",
+        "en": "Unfortunately, that does not work for me."
+      },
+      {
+        "de": "Das passt mir gut.",
+        "ru": "Мне это хорошо подходит.",
+        "en": "That works well for me."
+      },
+      {
+        "de": "Ich brauche bitte eine kurze Bestätigung.",
+        "ru": "Мне нужно короткое подтверждение.",
+        "en": "I need a brief confirmation."
+      },
+      {
+        "de": "Ich habe dazu noch eine Frage.",
+        "ru": "У меня есть ещё один вопрос по этому поводу.",
+        "en": "I have one more question about that."
+      },
+      {
+        "de": "Entschuldigung, ich habe Sie nicht verstanden.",
+        "ru": "Извините, я Вас не понял.",
+        "en": "Sorry, I did not understand you."
+      },
+      {
+        "de": "Könnten Sie mir ein Beispiel geben?",
+        "ru": "Могли бы Вы привести пример?",
+        "en": "Could you give me an example?"
+      },
+      {
+        "de": "Vielen Dank für Ihre Hilfe.",
+        "ru": "Большое спасибо за Вашу помощь.",
+        "en": "Thank you very much for your help."
+      },
+      {
+        "de": "Ich wünsche Ihnen einen schönen Tag.",
+        "ru": "Желаю Вам хорошего дня.",
+        "en": "Have a nice day."
+      }
+    ],
+    "dialogue": [
+      {
+        "de": "Guten Tag, wie kann ich Ihnen helfen?",
+        "ru": "Добрый день, чем я могу Вам помочь?",
+        "en": "Good day, how can I help you?"
+      },
+      {
+        "de": "Ich habe ein Problem in der Wohnung.",
+        "ru": "У меня проблема в квартире.",
+        "en": "I have a problem in the apartment."
+      },
+      {
+        "de": "Natürlich. Einen Moment bitte.",
+        "ru": "Конечно. Один момент, пожалуйста.",
+        "en": "Of course. One moment, please."
+      }
+    ],
+    "rolePlay": [
+      "Позвони и попроси термин.",
+      "Объясни проблему в 3 предложениях.",
+      "Попроси письменное подтверждение.",
+      "Скажи, что ты ещё учишь немецкий и попроси говорить медленнее."
+    ]
+  },
+  {
+    "id": "s006",
+    "level": "A1-B1",
+    "topic": "Jobcenter / Ausländerbehörde",
+    "phrases": [
+      {
+        "de": "Ich möchte meine Situation kurz erklären.",
+        "ru": "Я хотел бы коротко объяснить свою ситуацию.",
+        "en": "I would like to briefly explain my situation."
+      },
+      {
+        "de": "Ich habe die Unterlagen bereits eingereicht.",
+        "ru": "Я уже подал документы.",
+        "en": "I have already submitted the documents."
+      },
+      {
+        "de": "Könnten Sie bitte langsamer sprechen?",
+        "ru": "Не могли бы Вы говорить медленнее?",
+        "en": "Could you please speak more slowly?"
+      },
+      {
+        "de": "Ich bin noch dabei, Deutsch zu lernen.",
+        "ru": "Я ещё учу немецкий.",
+        "en": "I am still learning German."
+      },
+      {
+        "de": "Ich möchte sicher sein, dass ich alles richtig verstanden habe.",
+        "ru": "Я хочу быть уверен, что всё правильно понял.",
+        "en": "I want to be sure that I understood everything correctly."
+      },
+      {
+        "de": "Könnten Sie mir das bitte schriftlich geben?",
+        "ru": "Могли бы Вы дать мне это письменно?",
+        "en": "Could you please give that to me in writing?"
+      },
+      {
+        "de": "Was soll ich als Nächstes machen?",
+        "ru": "Что мне делать дальше?",
+        "en": "What should I do next?"
+      },
+      {
+        "de": "Bis wann muss ich das erledigen?",
+        "ru": "До какого срока я должен это сделать?",
+        "en": "By when do I have to do this?"
+      },
+      {
+        "de": "Ich kann die Unterlagen heute noch schicken.",
+        "ru": "Я могу отправить документы ещё сегодня.",
+        "en": "I can send the documents today."
+      },
+      {
+        "de": "Ich melde mich später noch einmal.",
+        "ru": "Я свяжусь ещё раз позже.",
+        "en": "I will contact you again later."
+      },
+      {
+        "de": "Das passt mir leider nicht.",
+        "ru": "К сожалению, мне это не подходит.",
+        "en": "Unfortunately, that does not work for me."
+      },
+      {
+        "de": "Das passt mir gut.",
+        "ru": "Мне это хорошо подходит.",
+        "en": "That works well for me."
+      },
+      {
+        "de": "Ich brauche bitte eine kurze Bestätigung.",
+        "ru": "Мне нужно короткое подтверждение.",
+        "en": "I need a brief confirmation."
+      },
+      {
+        "de": "Ich habe dazu noch eine Frage.",
+        "ru": "У меня есть ещё один вопрос по этому поводу.",
+        "en": "I have one more question about that."
+      },
+      {
+        "de": "Entschuldigung, ich habe Sie nicht verstanden.",
+        "ru": "Извините, я Вас не понял.",
+        "en": "Sorry, I did not understand you."
+      },
+      {
+        "de": "Könnten Sie mir ein Beispiel geben?",
+        "ru": "Могли бы Вы привести пример?",
+        "en": "Could you give me an example?"
+      },
+      {
+        "de": "Vielen Dank für Ihre Hilfe.",
+        "ru": "Большое спасибо за Вашу помощь.",
+        "en": "Thank you very much for your help."
+      },
+      {
+        "de": "Ich wünsche Ihnen einen schönen Tag.",
+        "ru": "Желаю Вам хорошего дня.",
+        "en": "Have a nice day."
+      }
+    ],
+    "dialogue": [
+      {
+        "de": "Guten Tag, wie kann ich Ihnen helfen?",
+        "ru": "Добрый день, чем я могу Вам помочь?",
+        "en": "Good day, how can I help you?"
+      },
+      {
+        "de": "Ich möchte meine Situation kurz erklären.",
+        "ru": "Я хотел бы коротко объяснить свою ситуацию.",
+        "en": "I would like to briefly explain my situation."
+      },
+      {
+        "de": "Natürlich. Einen Moment bitte.",
+        "ru": "Конечно. Один момент, пожалуйста.",
+        "en": "Of course. One moment, please."
+      }
+    ],
+    "rolePlay": [
+      "Позвони и попроси термин.",
+      "Объясни проблему в 3 предложениях.",
+      "Попроси письменное подтверждение.",
+      "Скажи, что ты ещё учишь немецкий и попроси говорить медленнее."
+    ]
+  },
+  {
+    "id": "s007",
+    "level": "A1-B1",
+    "topic": "Arbeit und Bewerbung",
+    "phrases": [
+      {
+        "de": "Ich habe Erfahrung im manuellen Testing.",
+        "ru": "У меня есть опыт в ручном тестировании.",
+        "en": "I have experience in manual testing."
+      },
+      {
+        "de": "Ich arbeite zuverlässig und lerne schnell.",
+        "ru": "Я работаю надёжно и быстро учусь.",
+        "en": "I work reliably and learn quickly."
+      },
+      {
+        "de": "Könnten Sie bitte langsamer sprechen?",
+        "ru": "Не могли бы Вы говорить медленнее?",
+        "en": "Could you please speak more slowly?"
+      },
+      {
+        "de": "Ich bin noch dabei, Deutsch zu lernen.",
+        "ru": "Я ещё учу немецкий.",
+        "en": "I am still learning German."
+      },
+      {
+        "de": "Ich möchte sicher sein, dass ich alles richtig verstanden habe.",
+        "ru": "Я хочу быть уверен, что всё правильно понял.",
+        "en": "I want to be sure that I understood everything correctly."
+      },
+      {
+        "de": "Könnten Sie mir das bitte schriftlich geben?",
+        "ru": "Могли бы Вы дать мне это письменно?",
+        "en": "Could you please give that to me in writing?"
+      },
+      {
+        "de": "Was soll ich als Nächstes machen?",
+        "ru": "Что мне делать дальше?",
+        "en": "What should I do next?"
+      },
+      {
+        "de": "Bis wann muss ich das erledigen?",
+        "ru": "До какого срока я должен это сделать?",
+        "en": "By when do I have to do this?"
+      },
+      {
+        "de": "Ich kann die Unterlagen heute noch schicken.",
+        "ru": "Я могу отправить документы ещё сегодня.",
+        "en": "I can send the documents today."
+      },
+      {
+        "de": "Ich melde mich später noch einmal.",
+        "ru": "Я свяжусь ещё раз позже.",
+        "en": "I will contact you again later."
+      },
+      {
+        "de": "Das passt mir leider nicht.",
+        "ru": "К сожалению, мне это не подходит.",
+        "en": "Unfortunately, that does not work for me."
+      },
+      {
+        "de": "Das passt mir gut.",
+        "ru": "Мне это хорошо подходит.",
+        "en": "That works well for me."
+      },
+      {
+        "de": "Ich brauche bitte eine kurze Bestätigung.",
+        "ru": "Мне нужно короткое подтверждение.",
+        "en": "I need a brief confirmation."
+      },
+      {
+        "de": "Ich habe dazu noch eine Frage.",
+        "ru": "У меня есть ещё один вопрос по этому поводу.",
+        "en": "I have one more question about that."
+      },
+      {
+        "de": "Entschuldigung, ich habe Sie nicht verstanden.",
+        "ru": "Извините, я Вас не понял.",
+        "en": "Sorry, I did not understand you."
+      },
+      {
+        "de": "Könnten Sie mir ein Beispiel geben?",
+        "ru": "Могли бы Вы привести пример?",
+        "en": "Could you give me an example?"
+      },
+      {
+        "de": "Vielen Dank für Ihre Hilfe.",
+        "ru": "Большое спасибо за Вашу помощь.",
+        "en": "Thank you very much for your help."
+      },
+      {
+        "de": "Ich wünsche Ihnen einen schönen Tag.",
+        "ru": "Желаю Вам хорошего дня.",
+        "en": "Have a nice day."
+      }
+    ],
+    "dialogue": [
+      {
+        "de": "Guten Tag, wie kann ich Ihnen helfen?",
+        "ru": "Добрый день, чем я могу Вам помочь?",
+        "en": "Good day, how can I help you?"
+      },
+      {
+        "de": "Ich habe Erfahrung im manuellen Testing.",
+        "ru": "У меня есть опыт в ручном тестировании.",
+        "en": "I have experience in manual testing."
+      },
+      {
+        "de": "Natürlich. Einen Moment bitte.",
+        "ru": "Конечно. Один момент, пожалуйста.",
+        "en": "Of course. One moment, please."
+      }
+    ],
+    "rolePlay": [
+      "Позвони и попроси термин.",
+      "Объясни проблему в 3 предложениях.",
+      "Попроси письменное подтверждение.",
+      "Скажи, что ты ещё учишь немецкий и попроси говорить медленнее."
+    ]
+  },
+  {
+    "id": "s008",
+    "level": "A1-B1",
+    "topic": "Small Talk",
+    "phrases": [
+      {
+        "de": "Wie geht es Ihnen? — Danke, gut. Und Ihnen?",
+        "ru": "Как у Вас дела? — Спасибо, хорошо. А у Вас?",
+        "en": "How are you? — Good, thanks. And you?"
+      },
+      {
+        "de": "Das Wetter ist heute angenehm.",
+        "ru": "Погода сегодня приятная.",
+        "en": "The weather is pleasant today."
+      },
+      {
+        "de": "Könnten Sie bitte langsamer sprechen?",
+        "ru": "Не могли бы Вы говорить медленнее?",
+        "en": "Could you please speak more slowly?"
+      },
+      {
+        "de": "Ich bin noch dabei, Deutsch zu lernen.",
+        "ru": "Я ещё учу немецкий.",
+        "en": "I am still learning German."
+      },
+      {
+        "de": "Ich möchte sicher sein, dass ich alles richtig verstanden habe.",
+        "ru": "Я хочу быть уверен, что всё правильно понял.",
+        "en": "I want to be sure that I understood everything correctly."
+      },
+      {
+        "de": "Könnten Sie mir das bitte schriftlich geben?",
+        "ru": "Могли бы Вы дать мне это письменно?",
+        "en": "Could you please give that to me in writing?"
+      },
+      {
+        "de": "Was soll ich als Nächstes machen?",
+        "ru": "Что мне делать дальше?",
+        "en": "What should I do next?"
+      },
+      {
+        "de": "Bis wann muss ich das erledigen?",
+        "ru": "До какого срока я должен это сделать?",
+        "en": "By when do I have to do this?"
+      },
+      {
+        "de": "Ich kann die Unterlagen heute noch schicken.",
+        "ru": "Я могу отправить документы ещё сегодня.",
+        "en": "I can send the documents today."
+      },
+      {
+        "de": "Ich melde mich später noch einmal.",
+        "ru": "Я свяжусь ещё раз позже.",
+        "en": "I will contact you again later."
+      },
+      {
+        "de": "Das passt mir leider nicht.",
+        "ru": "К сожалению, мне это не подходит.",
+        "en": "Unfortunately, that does not work for me."
+      },
+      {
+        "de": "Das passt mir gut.",
+        "ru": "Мне это хорошо подходит.",
+        "en": "That works well for me."
+      },
+      {
+        "de": "Ich brauche bitte eine kurze Bestätigung.",
+        "ru": "Мне нужно короткое подтверждение.",
+        "en": "I need a brief confirmation."
+      },
+      {
+        "de": "Ich habe dazu noch eine Frage.",
+        "ru": "У меня есть ещё один вопрос по этому поводу.",
+        "en": "I have one more question about that."
+      },
+      {
+        "de": "Entschuldigung, ich habe Sie nicht verstanden.",
+        "ru": "Извините, я Вас не понял.",
+        "en": "Sorry, I did not understand you."
+      },
+      {
+        "de": "Könnten Sie mir ein Beispiel geben?",
+        "ru": "Могли бы Вы привести пример?",
+        "en": "Could you give me an example?"
+      },
+      {
+        "de": "Vielen Dank für Ihre Hilfe.",
+        "ru": "Большое спасибо за Вашу помощь.",
+        "en": "Thank you very much for your help."
+      },
+      {
+        "de": "Ich wünsche Ihnen einen schönen Tag.",
+        "ru": "Желаю Вам хорошего дня.",
+        "en": "Have a nice day."
+      }
+    ],
+    "dialogue": [
+      {
+        "de": "Guten Tag, wie kann ich Ihnen helfen?",
+        "ru": "Добрый день, чем я могу Вам помочь?",
+        "en": "Good day, how can I help you?"
+      },
+      {
+        "de": "Wie geht es Ihnen? — Danke, gut. Und Ihnen?",
+        "ru": "Как у Вас дела? — Спасибо, хорошо. А у Вас?",
+        "en": "How are you? — Good, thanks. And you?"
+      },
+      {
+        "de": "Natürlich. Einen Moment bitte.",
+        "ru": "Конечно. Один момент, пожалуйста.",
+        "en": "Of course. One moment, please."
+      }
+    ],
+    "rolePlay": [
+      "Позвони и попроси термин.",
+      "Объясни проблему в 3 предложениях.",
+      "Попроси письменное подтверждение.",
+      "Скажи, что ты ещё учишь немецкий и попроси говорить медленнее."
+    ]
+  },
+  {
+    "id": "s009",
+    "level": "A1-B1",
+    "topic": "Telefonieren",
+    "phrases": [
+      {
+        "de": "Guten Tag, mein Name ist Serdar Kerimov.",
+        "ru": "Добрый день, меня зовут Сердар Керимов.",
+        "en": "Good day, my name is Serdar Kerimov."
+      },
+      {
+        "de": "Könnten Sie das bitte wiederholen?",
+        "ru": "Могли бы Вы это повторить?",
+        "en": "Could you please repeat that?"
+      },
+      {
+        "de": "Könnten Sie bitte langsamer sprechen?",
+        "ru": "Не могли бы Вы говорить медленнее?",
+        "en": "Could you please speak more slowly?"
+      },
+      {
+        "de": "Ich bin noch dabei, Deutsch zu lernen.",
+        "ru": "Я ещё учу немецкий.",
+        "en": "I am still learning German."
+      },
+      {
+        "de": "Ich möchte sicher sein, dass ich alles richtig verstanden habe.",
+        "ru": "Я хочу быть уверен, что всё правильно понял.",
+        "en": "I want to be sure that I understood everything correctly."
+      },
+      {
+        "de": "Könnten Sie mir das bitte schriftlich geben?",
+        "ru": "Могли бы Вы дать мне это письменно?",
+        "en": "Could you please give that to me in writing?"
+      },
+      {
+        "de": "Was soll ich als Nächstes machen?",
+        "ru": "Что мне делать дальше?",
+        "en": "What should I do next?"
+      },
+      {
+        "de": "Bis wann muss ich das erledigen?",
+        "ru": "До какого срока я должен это сделать?",
+        "en": "By when do I have to do this?"
+      },
+      {
+        "de": "Ich kann die Unterlagen heute noch schicken.",
+        "ru": "Я могу отправить документы ещё сегодня.",
+        "en": "I can send the documents today."
+      },
+      {
+        "de": "Ich melde mich später noch einmal.",
+        "ru": "Я свяжусь ещё раз позже.",
+        "en": "I will contact you again later."
+      },
+      {
+        "de": "Das passt mir leider nicht.",
+        "ru": "К сожалению, мне это не подходит.",
+        "en": "Unfortunately, that does not work for me."
+      },
+      {
+        "de": "Das passt mir gut.",
+        "ru": "Мне это хорошо подходит.",
+        "en": "That works well for me."
+      },
+      {
+        "de": "Ich brauche bitte eine kurze Bestätigung.",
+        "ru": "Мне нужно короткое подтверждение.",
+        "en": "I need a brief confirmation."
+      },
+      {
+        "de": "Ich habe dazu noch eine Frage.",
+        "ru": "У меня есть ещё один вопрос по этому поводу.",
+        "en": "I have one more question about that."
+      },
+      {
+        "de": "Entschuldigung, ich habe Sie nicht verstanden.",
+        "ru": "Извините, я Вас не понял.",
+        "en": "Sorry, I did not understand you."
+      },
+      {
+        "de": "Könnten Sie mir ein Beispiel geben?",
+        "ru": "Могли бы Вы привести пример?",
+        "en": "Could you give me an example?"
+      },
+      {
+        "de": "Vielen Dank für Ihre Hilfe.",
+        "ru": "Большое спасибо за Вашу помощь.",
+        "en": "Thank you very much for your help."
+      },
+      {
+        "de": "Ich wünsche Ihnen einen schönen Tag.",
+        "ru": "Желаю Вам хорошего дня.",
+        "en": "Have a nice day."
+      }
+    ],
+    "dialogue": [
+      {
+        "de": "Guten Tag, wie kann ich Ihnen helfen?",
+        "ru": "Добрый день, чем я могу Вам помочь?",
+        "en": "Good day, how can I help you?"
+      },
+      {
+        "de": "Guten Tag, mein Name ist Serdar Kerimov.",
+        "ru": "Добрый день, меня зовут Сердар Керимов.",
+        "en": "Good day, my name is Serdar Kerimov."
+      },
+      {
+        "de": "Natürlich. Einen Moment bitte.",
+        "ru": "Конечно. Один момент, пожалуйста.",
+        "en": "Of course. One moment, please."
+      }
+    ],
+    "rolePlay": [
+      "Позвони и попроси термин.",
+      "Объясни проблему в 3 предложениях.",
+      "Попроси письменное подтверждение.",
+      "Скажи, что ты ещё учишь немецкий и попроси говорить медленнее."
+    ]
+  },
+  {
+    "id": "s010",
+    "level": "A1-B1",
+    "topic": "Termine machen",
+    "phrases": [
+      {
+        "de": "Ich möchte einen Termin vereinbaren.",
+        "ru": "Я хотел бы договориться о термине.",
+        "en": "I would like to make an appointment."
+      },
+      {
+        "de": "Haben Sie nächste Woche einen freien Termin?",
+        "ru": "У Вас есть свободный термин на следующей неделе?",
+        "en": "Do you have an available appointment next week?"
+      },
+      {
+        "de": "Könnten Sie bitte langsamer sprechen?",
+        "ru": "Не могли бы Вы говорить медленнее?",
+        "en": "Could you please speak more slowly?"
+      },
+      {
+        "de": "Ich bin noch dabei, Deutsch zu lernen.",
+        "ru": "Я ещё учу немецкий.",
+        "en": "I am still learning German."
+      },
+      {
+        "de": "Ich möchte sicher sein, dass ich alles richtig verstanden habe.",
+        "ru": "Я хочу быть уверен, что всё правильно понял.",
+        "en": "I want to be sure that I understood everything correctly."
+      },
+      {
+        "de": "Könnten Sie mir das bitte schriftlich geben?",
+        "ru": "Могли бы Вы дать мне это письменно?",
+        "en": "Could you please give that to me in writing?"
+      },
+      {
+        "de": "Was soll ich als Nächstes machen?",
+        "ru": "Что мне делать дальше?",
+        "en": "What should I do next?"
+      },
+      {
+        "de": "Bis wann muss ich das erledigen?",
+        "ru": "До какого срока я должен это сделать?",
+        "en": "By when do I have to do this?"
+      },
+      {
+        "de": "Ich kann die Unterlagen heute noch schicken.",
+        "ru": "Я могу отправить документы ещё сегодня.",
+        "en": "I can send the documents today."
+      },
+      {
+        "de": "Ich melde mich später noch einmal.",
+        "ru": "Я свяжусь ещё раз позже.",
+        "en": "I will contact you again later."
+      },
+      {
+        "de": "Das passt mir leider nicht.",
+        "ru": "К сожалению, мне это не подходит.",
+        "en": "Unfortunately, that does not work for me."
+      },
+      {
+        "de": "Das passt mir gut.",
+        "ru": "Мне это хорошо подходит.",
+        "en": "That works well for me."
+      },
+      {
+        "de": "Ich brauche bitte eine kurze Bestätigung.",
+        "ru": "Мне нужно короткое подтверждение.",
+        "en": "I need a brief confirmation."
+      },
+      {
+        "de": "Ich habe dazu noch eine Frage.",
+        "ru": "У меня есть ещё один вопрос по этому поводу.",
+        "en": "I have one more question about that."
+      },
+      {
+        "de": "Entschuldigung, ich habe Sie nicht verstanden.",
+        "ru": "Извините, я Вас не понял.",
+        "en": "Sorry, I did not understand you."
+      },
+      {
+        "de": "Könnten Sie mir ein Beispiel geben?",
+        "ru": "Могли бы Вы привести пример?",
+        "en": "Could you give me an example?"
+      },
+      {
+        "de": "Vielen Dank für Ihre Hilfe.",
+        "ru": "Большое спасибо за Вашу помощь.",
+        "en": "Thank you very much for your help."
+      },
+      {
+        "de": "Ich wünsche Ihnen einen schönen Tag.",
+        "ru": "Желаю Вам хорошего дня.",
+        "en": "Have a nice day."
+      }
+    ],
+    "dialogue": [
+      {
+        "de": "Guten Tag, wie kann ich Ihnen helfen?",
+        "ru": "Добрый день, чем я могу Вам помочь?",
+        "en": "Good day, how can I help you?"
+      },
+      {
+        "de": "Ich möchte einen Termin vereinbaren.",
+        "ru": "Я хотел бы договориться о термине.",
+        "en": "I would like to make an appointment."
+      },
+      {
+        "de": "Natürlich. Einen Moment bitte.",
+        "ru": "Конечно. Один момент, пожалуйста.",
+        "en": "Of course. One moment, please."
+      }
+    ],
+    "rolePlay": [
+      "Позвони и попроси термин.",
+      "Объясни проблему в 3 предложениях.",
+      "Попроси письменное подтверждение.",
+      "Скажи, что ты ещё учишь немецкий и попроси говорить медленнее."
+    ]
+  },
+  {
+    "id": "s011",
+    "level": "A1-B1",
+    "topic": "Problem erklären",
+    "phrases": [
+      {
+        "de": "Das Problem ist, dass ...",
+        "ru": "Проблема в том, что ...",
+        "en": "The problem is that ..."
+      },
+      {
+        "de": "Ich habe das nicht richtig verstanden.",
+        "ru": "Я это не совсем правильно понял.",
+        "en": "I did not understand that correctly."
+      },
+      {
+        "de": "Könnten Sie bitte langsamer sprechen?",
+        "ru": "Не могли бы Вы говорить медленнее?",
+        "en": "Could you please speak more slowly?"
+      },
+      {
+        "de": "Ich bin noch dabei, Deutsch zu lernen.",
+        "ru": "Я ещё учу немецкий.",
+        "en": "I am still learning German."
+      },
+      {
+        "de": "Ich möchte sicher sein, dass ich alles richtig verstanden habe.",
+        "ru": "Я хочу быть уверен, что всё правильно понял.",
+        "en": "I want to be sure that I understood everything correctly."
+      },
+      {
+        "de": "Könnten Sie mir das bitte schriftlich geben?",
+        "ru": "Могли бы Вы дать мне это письменно?",
+        "en": "Could you please give that to me in writing?"
+      },
+      {
+        "de": "Was soll ich als Nächstes machen?",
+        "ru": "Что мне делать дальше?",
+        "en": "What should I do next?"
+      },
+      {
+        "de": "Bis wann muss ich das erledigen?",
+        "ru": "До какого срока я должен это сделать?",
+        "en": "By when do I have to do this?"
+      },
+      {
+        "de": "Ich kann die Unterlagen heute noch schicken.",
+        "ru": "Я могу отправить документы ещё сегодня.",
+        "en": "I can send the documents today."
+      },
+      {
+        "de": "Ich melde mich später noch einmal.",
+        "ru": "Я свяжусь ещё раз позже.",
+        "en": "I will contact you again later."
+      },
+      {
+        "de": "Das passt mir leider nicht.",
+        "ru": "К сожалению, мне это не подходит.",
+        "en": "Unfortunately, that does not work for me."
+      },
+      {
+        "de": "Das passt mir gut.",
+        "ru": "Мне это хорошо подходит.",
+        "en": "That works well for me."
+      },
+      {
+        "de": "Ich brauche bitte eine kurze Bestätigung.",
+        "ru": "Мне нужно короткое подтверждение.",
+        "en": "I need a brief confirmation."
+      },
+      {
+        "de": "Ich habe dazu noch eine Frage.",
+        "ru": "У меня есть ещё один вопрос по этому поводу.",
+        "en": "I have one more question about that."
+      },
+      {
+        "de": "Entschuldigung, ich habe Sie nicht verstanden.",
+        "ru": "Извините, я Вас не понял.",
+        "en": "Sorry, I did not understand you."
+      },
+      {
+        "de": "Könnten Sie mir ein Beispiel geben?",
+        "ru": "Могли бы Вы привести пример?",
+        "en": "Could you give me an example?"
+      },
+      {
+        "de": "Vielen Dank für Ihre Hilfe.",
+        "ru": "Большое спасибо за Вашу помощь.",
+        "en": "Thank you very much for your help."
+      },
+      {
+        "de": "Ich wünsche Ihnen einen schönen Tag.",
+        "ru": "Желаю Вам хорошего дня.",
+        "en": "Have a nice day."
+      }
+    ],
+    "dialogue": [
+      {
+        "de": "Guten Tag, wie kann ich Ihnen helfen?",
+        "ru": "Добрый день, чем я могу Вам помочь?",
+        "en": "Good day, how can I help you?"
+      },
+      {
+        "de": "Das Problem ist, dass ...",
+        "ru": "Проблема в том, что ...",
+        "en": "The problem is that ..."
+      },
+      {
+        "de": "Natürlich. Einen Moment bitte.",
+        "ru": "Конечно. Один момент, пожалуйста.",
+        "en": "Of course. One moment, please."
+      }
+    ],
+    "rolePlay": [
+      "Позвони и попроси термин.",
+      "Объясни проблему в 3 предложениях.",
+      "Попроси письменное подтверждение.",
+      "Скажи, что ты ещё учишь немецкий и попроси говорить медленнее."
+    ]
+  },
+  {
+    "id": "s012",
+    "level": "A1-B1",
+    "topic": "Beschwerden",
+    "phrases": [
+      {
+        "de": "Ich möchte mich über den Service beschweren.",
+        "ru": "Я хотел бы пожаловаться на сервис.",
+        "en": "I would like to complain about the service."
+      },
+      {
+        "de": "Bitte bestätigen Sie den Eingang meiner Beschwerde.",
+        "ru": "Пожалуйста, подтвердите получение моей жалобы.",
+        "en": "Please confirm receipt of my complaint."
+      },
+      {
+        "de": "Könnten Sie bitte langsamer sprechen?",
+        "ru": "Не могли бы Вы говорить медленнее?",
+        "en": "Could you please speak more slowly?"
+      },
+      {
+        "de": "Ich bin noch dabei, Deutsch zu lernen.",
+        "ru": "Я ещё учу немецкий.",
+        "en": "I am still learning German."
+      },
+      {
+        "de": "Ich möchte sicher sein, dass ich alles richtig verstanden habe.",
+        "ru": "Я хочу быть уверен, что всё правильно понял.",
+        "en": "I want to be sure that I understood everything correctly."
+      },
+      {
+        "de": "Könnten Sie mir das bitte schriftlich geben?",
+        "ru": "Могли бы Вы дать мне это письменно?",
+        "en": "Could you please give that to me in writing?"
+      },
+      {
+        "de": "Was soll ich als Nächstes machen?",
+        "ru": "Что мне делать дальше?",
+        "en": "What should I do next?"
+      },
+      {
+        "de": "Bis wann muss ich das erledigen?",
+        "ru": "До какого срока я должен это сделать?",
+        "en": "By when do I have to do this?"
+      },
+      {
+        "de": "Ich kann die Unterlagen heute noch schicken.",
+        "ru": "Я могу отправить документы ещё сегодня.",
+        "en": "I can send the documents today."
+      },
+      {
+        "de": "Ich melde mich später noch einmal.",
+        "ru": "Я свяжусь ещё раз позже.",
+        "en": "I will contact you again later."
+      },
+      {
+        "de": "Das passt mir leider nicht.",
+        "ru": "К сожалению, мне это не подходит.",
+        "en": "Unfortunately, that does not work for me."
+      },
+      {
+        "de": "Das passt mir gut.",
+        "ru": "Мне это хорошо подходит.",
+        "en": "That works well for me."
+      },
+      {
+        "de": "Ich brauche bitte eine kurze Bestätigung.",
+        "ru": "Мне нужно короткое подтверждение.",
+        "en": "I need a brief confirmation."
+      },
+      {
+        "de": "Ich habe dazu noch eine Frage.",
+        "ru": "У меня есть ещё один вопрос по этому поводу.",
+        "en": "I have one more question about that."
+      },
+      {
+        "de": "Entschuldigung, ich habe Sie nicht verstanden.",
+        "ru": "Извините, я Вас не понял.",
+        "en": "Sorry, I did not understand you."
+      },
+      {
+        "de": "Könnten Sie mir ein Beispiel geben?",
+        "ru": "Могли бы Вы привести пример?",
+        "en": "Could you give me an example?"
+      },
+      {
+        "de": "Vielen Dank für Ihre Hilfe.",
+        "ru": "Большое спасибо за Вашу помощь.",
+        "en": "Thank you very much for your help."
+      },
+      {
+        "de": "Ich wünsche Ihnen einen schönen Tag.",
+        "ru": "Желаю Вам хорошего дня.",
+        "en": "Have a nice day."
+      }
+    ],
+    "dialogue": [
+      {
+        "de": "Guten Tag, wie kann ich Ihnen helfen?",
+        "ru": "Добрый день, чем я могу Вам помочь?",
+        "en": "Good day, how can I help you?"
+      },
+      {
+        "de": "Ich möchte mich über den Service beschweren.",
+        "ru": "Я хотел бы пожаловаться на сервис.",
+        "en": "I would like to complain about the service."
+      },
+      {
+        "de": "Natürlich. Einen Moment bitte.",
+        "ru": "Конечно. Один момент, пожалуйста.",
+        "en": "Of course. One moment, please."
+      }
+    ],
+    "rolePlay": [
+      "Позвони и попроси термин.",
+      "Объясни проблему в 3 предложениях.",
+      "Попроси письменное подтверждение.",
+      "Скажи, что ты ещё учишь немецкий и попроси говорить медленнее."
+    ]
+  },
+  {
+    "id": "s013",
+    "level": "A1-B1",
+    "topic": "Meinung sagen",
+    "phrases": [
+      {
+        "de": "Meiner Meinung nach ist das wichtig.",
+        "ru": "По моему мнению, это важно.",
+        "en": "In my opinion, this is important."
+      },
+      {
+        "de": "Ich sehe das anders, weil ...",
+        "ru": "Я вижу это иначе, потому что ...",
+        "en": "I see it differently because ..."
+      },
+      {
+        "de": "Könnten Sie bitte langsamer sprechen?",
+        "ru": "Не могли бы Вы говорить медленнее?",
+        "en": "Could you please speak more slowly?"
+      },
+      {
+        "de": "Ich bin noch dabei, Deutsch zu lernen.",
+        "ru": "Я ещё учу немецкий.",
+        "en": "I am still learning German."
+      },
+      {
+        "de": "Ich möchte sicher sein, dass ich alles richtig verstanden habe.",
+        "ru": "Я хочу быть уверен, что всё правильно понял.",
+        "en": "I want to be sure that I understood everything correctly."
+      },
+      {
+        "de": "Könnten Sie mir das bitte schriftlich geben?",
+        "ru": "Могли бы Вы дать мне это письменно?",
+        "en": "Could you please give that to me in writing?"
+      },
+      {
+        "de": "Was soll ich als Nächstes machen?",
+        "ru": "Что мне делать дальше?",
+        "en": "What should I do next?"
+      },
+      {
+        "de": "Bis wann muss ich das erledigen?",
+        "ru": "До какого срока я должен это сделать?",
+        "en": "By when do I have to do this?"
+      },
+      {
+        "de": "Ich kann die Unterlagen heute noch schicken.",
+        "ru": "Я могу отправить документы ещё сегодня.",
+        "en": "I can send the documents today."
+      },
+      {
+        "de": "Ich melde mich später noch einmal.",
+        "ru": "Я свяжусь ещё раз позже.",
+        "en": "I will contact you again later."
+      },
+      {
+        "de": "Das passt mir leider nicht.",
+        "ru": "К сожалению, мне это не подходит.",
+        "en": "Unfortunately, that does not work for me."
+      },
+      {
+        "de": "Das passt mir gut.",
+        "ru": "Мне это хорошо подходит.",
+        "en": "That works well for me."
+      },
+      {
+        "de": "Ich brauche bitte eine kurze Bestätigung.",
+        "ru": "Мне нужно короткое подтверждение.",
+        "en": "I need a brief confirmation."
+      },
+      {
+        "de": "Ich habe dazu noch eine Frage.",
+        "ru": "У меня есть ещё один вопрос по этому поводу.",
+        "en": "I have one more question about that."
+      },
+      {
+        "de": "Entschuldigung, ich habe Sie nicht verstanden.",
+        "ru": "Извините, я Вас не понял.",
+        "en": "Sorry, I did not understand you."
+      },
+      {
+        "de": "Könnten Sie mir ein Beispiel geben?",
+        "ru": "Могли бы Вы привести пример?",
+        "en": "Could you give me an example?"
+      },
+      {
+        "de": "Vielen Dank für Ihre Hilfe.",
+        "ru": "Большое спасибо за Вашу помощь.",
+        "en": "Thank you very much for your help."
+      },
+      {
+        "de": "Ich wünsche Ihnen einen schönen Tag.",
+        "ru": "Желаю Вам хорошего дня.",
+        "en": "Have a nice day."
+      }
+    ],
+    "dialogue": [
+      {
+        "de": "Guten Tag, wie kann ich Ihnen helfen?",
+        "ru": "Добрый день, чем я могу Вам помочь?",
+        "en": "Good day, how can I help you?"
+      },
+      {
+        "de": "Meiner Meinung nach ist das wichtig.",
+        "ru": "По моему мнению, это важно.",
+        "en": "In my opinion, this is important."
+      },
+      {
+        "de": "Natürlich. Einen Moment bitte.",
+        "ru": "Конечно. Один момент, пожалуйста.",
+        "en": "Of course. One moment, please."
+      }
+    ],
+    "rolePlay": [
+      "Позвони и попроси термин.",
+      "Объясни проблему в 3 предложениях.",
+      "Попроси письменное подтверждение.",
+      "Скажи, что ты ещё учишь немецкий и попроси говорить медленнее."
+    ]
+  },
+  {
+    "id": "s014",
+    "level": "A1-B1",
+    "topic": "Vorstellungsgespräch",
+    "phrases": [
+      {
+        "de": "Vielen Dank für die Einladung zum Gespräch.",
+        "ru": "Спасибо за приглашение на собеседование.",
+        "en": "Thank you for the invitation to the interview."
+      },
+      {
+        "de": "Ich möchte mich beruflich weiterentwickeln.",
+        "ru": "Я хочу профессионально развиваться.",
+        "en": "I want to develop professionally."
+      },
+      {
+        "de": "Könnten Sie bitte langsamer sprechen?",
+        "ru": "Не могли бы Вы говорить медленнее?",
+        "en": "Could you please speak more slowly?"
+      },
+      {
+        "de": "Ich bin noch dabei, Deutsch zu lernen.",
+        "ru": "Я ещё учу немецкий.",
+        "en": "I am still learning German."
+      },
+      {
+        "de": "Ich möchte sicher sein, dass ich alles richtig verstanden habe.",
+        "ru": "Я хочу быть уверен, что всё правильно понял.",
+        "en": "I want to be sure that I understood everything correctly."
+      },
+      {
+        "de": "Könnten Sie mir das bitte schriftlich geben?",
+        "ru": "Могли бы Вы дать мне это письменно?",
+        "en": "Could you please give that to me in writing?"
+      },
+      {
+        "de": "Was soll ich als Nächstes machen?",
+        "ru": "Что мне делать дальше?",
+        "en": "What should I do next?"
+      },
+      {
+        "de": "Bis wann muss ich das erledigen?",
+        "ru": "До какого срока я должен это сделать?",
+        "en": "By when do I have to do this?"
+      },
+      {
+        "de": "Ich kann die Unterlagen heute noch schicken.",
+        "ru": "Я могу отправить документы ещё сегодня.",
+        "en": "I can send the documents today."
+      },
+      {
+        "de": "Ich melde mich später noch einmal.",
+        "ru": "Я свяжусь ещё раз позже.",
+        "en": "I will contact you again later."
+      },
+      {
+        "de": "Das passt mir leider nicht.",
+        "ru": "К сожалению, мне это не подходит.",
+        "en": "Unfortunately, that does not work for me."
+      },
+      {
+        "de": "Das passt mir gut.",
+        "ru": "Мне это хорошо подходит.",
+        "en": "That works well for me."
+      },
+      {
+        "de": "Ich brauche bitte eine kurze Bestätigung.",
+        "ru": "Мне нужно короткое подтверждение.",
+        "en": "I need a brief confirmation."
+      },
+      {
+        "de": "Ich habe dazu noch eine Frage.",
+        "ru": "У меня есть ещё один вопрос по этому поводу.",
+        "en": "I have one more question about that."
+      },
+      {
+        "de": "Entschuldigung, ich habe Sie nicht verstanden.",
+        "ru": "Извините, я Вас не понял.",
+        "en": "Sorry, I did not understand you."
+      },
+      {
+        "de": "Könnten Sie mir ein Beispiel geben?",
+        "ru": "Могли бы Вы привести пример?",
+        "en": "Could you give me an example?"
+      },
+      {
+        "de": "Vielen Dank für Ihre Hilfe.",
+        "ru": "Большое спасибо за Вашу помощь.",
+        "en": "Thank you very much for your help."
+      },
+      {
+        "de": "Ich wünsche Ihnen einen schönen Tag.",
+        "ru": "Желаю Вам хорошего дня.",
+        "en": "Have a nice day."
+      }
+    ],
+    "dialogue": [
+      {
+        "de": "Guten Tag, wie kann ich Ihnen helfen?",
+        "ru": "Добрый день, чем я могу Вам помочь?",
+        "en": "Good day, how can I help you?"
+      },
+      {
+        "de": "Vielen Dank für die Einladung zum Gespräch.",
+        "ru": "Спасибо за приглашение на собеседование.",
+        "en": "Thank you for the invitation to the interview."
+      },
+      {
+        "de": "Natürlich. Einen Moment bitte.",
+        "ru": "Конечно. Один момент, пожалуйста.",
+        "en": "Of course. One moment, please."
+      }
+    ],
+    "rolePlay": [
+      "Позвони и попроси термин.",
+      "Объясни проблему в 3 предложениях.",
+      "Попроси письменное подтверждение.",
+      "Скажи, что ты ещё учишь немецкий и попроси говорить медленнее."
+    ]
+  }
+]

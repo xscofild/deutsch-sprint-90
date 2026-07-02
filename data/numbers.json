@@ -1,0 +1,75 @@
+{
+  "title": "Zahlen richtig benutzen",
+  "rules": [
+    {
+      "topic": "0-20",
+      "de": "null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn, elf, zwölf, dreizehn...",
+      "ru": "0–20 надо выучить как таблицу умножения.",
+      "en": "Learn 0–20 automatically."
+    },
+    {
+      "topic": "21-99",
+      "de": "einundzwanzig = 1 + und + 20",
+      "ru": "В немецком сначала единицы, потом десятки: 21 = один-и-двадцать.",
+      "en": "German says units before tens."
+    },
+    {
+      "topic": "Preise",
+      "de": "12,99 € = zwölf Euro neunundneunzig",
+      "ru": "Цены чаще говорят: двенадцать евро девяносто девять.",
+      "en": "Prices are often spoken as euros + cents."
+    },
+    {
+      "topic": "Uhrzeit formal",
+      "de": "13:17 = dreizehn Uhr siebzehn",
+      "ru": "Формально — 24-часовой формат. Идеально для вокзала и терминов.",
+      "en": "Formal time uses the 24-hour clock."
+    },
+    {
+      "topic": "Uhrzeit informal",
+      "de": "15:30 = halb vier; 10:15 = viertel nach zehn; 10:45 = viertel vor elf",
+      "ru": "Разговорное время надо отработать отдельно, оно ломает мозг первые дни.",
+      "en": "Informal time needs separate practice."
+    },
+    {
+      "topic": "Datum",
+      "de": "01.03. = der erste Dritte / der erste März",
+      "ru": "Дата читается порядковым числительным.",
+      "en": "Dates use ordinal numbers."
+    },
+    {
+      "topic": "Telefonnummer",
+      "de": "0176 123456 = null eins sieben sechs, eins zwei drei vier fünf sechs",
+      "ru": "Номер телефона диктуют цифрами группами.",
+      "en": "Phone numbers are dictated digit by digit in groups."
+    },
+    {
+      "topic": "Brutto/Netto",
+      "de": "brutto = vor Abzügen; netto = nach Abzügen",
+      "ru": "Brutto — до вычетов, netto — после вычетов.",
+      "en": "Gross is before deductions; net is after deductions."
+    }
+  ],
+  "tests": [
+    {
+      "q": "Как сказать 42?",
+      "a": "zweiundvierzig"
+    },
+    {
+      "q": "Как сказать 15:30 разговорно?",
+      "a": "halb vier"
+    },
+    {
+      "q": "Как сказать 10:45 разговорно?",
+      "a": "viertel vor elf"
+    },
+    {
+      "q": "Как сказать 12,99 €?",
+      "a": "zwölf Euro neunundneunzig"
+    },
+    {
+      "q": "Что значит brutto?",
+      "a": "до налогов/вычетов"
+    }
+  ]
+}

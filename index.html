@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Deutsch 90 Tage — Intensive German System</title>
+  <meta name="description" content="Mobile-first German learning system A1-B1/B2 for GitHub Pages" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">A1 → B1 speaking foundation</p>
+      <h1>Deutsch 90 Tage</h1>
+      <p class="subtitle">Словарь, грамматика, speaking, Zahlen, Behörden и работа — без учебниковой ваты.</p>
+    </div>
+    <button id="themeToggle" class="ghost">🌗</button>
+  </header>
+
+  <nav class="tabs" aria-label="Main navigation">
+    <button data-view="dashboard" class="active">Сегодня</button>
+    <button data-view="vocabulary">Словарь</button>
+    <button data-view="quiz">Тесты</button>
+    <button data-view="grammar">Грамматика</button>
+    <button data-view="speaking">Speaking</button>
+    <button data-view="numbers">Zahlen</button>
+    <button data-view="plan">90 дней</button>
+  </nav>
+
+  <main>
+    <section id="dashboard" class="view active">
+      <div class="grid two">
+        <article class="card hero-card">
+          <h2>План на сегодня</h2>
+          <div id="todayPlan"></div>
+          <div class="actions">
+            <button id="nextDayBtn">Следующий день</button>
+            <button id="resetProgressBtn" class="danger ghost">Сброс</button>
+          </div>
+        </article>
+        <article class="card">
+          <h2>Статус</h2>
+          <div class="stats">
+            <div><strong id="knownCount">0</strong><span>known</span></div>
+            <div><strong id="learningCount">0</strong><span>learning</span></div>
+            <div><strong id="newCount">0</strong><span>new</span></div>
+          </div>
+          <p class="hint">Цель: каждый день говорить вслух. Просто читать немецкий — это как покупать абонемент в зал и тренировать только взгляд.</p>
+        </article>
+      </div>
+      <div class="grid two">
+        <article class="card" id="wordOfDay"></article>
+        <article class="card" id="speakingOfDay"></article>
+      </div>
+    </section>
+
+    <section id="vocabulary" class="view">
+      <div class="toolbar">
+        <input id="searchInput" type="search" placeholder="Поиск: Termin, работа, appointment..." />
+        <select id="levelFilter"><option value="">Все уровни</option></select>
+        <select id="topicFilter"><option value="">Все темы</option></select>
+        <select id="priorityFilter"><option value="">Все приоритеты</option><option value="high">high</option><option value="medium">medium</option><option value="low">low</option></select>
+      </div>
+      <div id="vocabList" class="cards"></div>
+    </section>
+
+    <section id="quiz" class="view">
+      <article class="card quiz-card">
+        <div class="quiz-head">
+          <h2>Mini Quiz</h2>
+          <select id="quizLevel"><option value="">Все уровни</option></select>
+        </div>
+        <p id="quizQuestion" class="question"></p>
+        <div id="quizOptions" class="options"></div>
+        <p id="quizResult" class="result"></p>
+        <button id="nextQuizBtn">Следующий вопрос</button>
+      </article>
+    </section>
+
+    <section id="grammar" class="view">
+      <div class="toolbar">
+        <select id="grammarLevel"><option value="">Все уровни</option></select>
+      </div>
+      <div id="grammarList" class="cards"></div>
+    </section>
+
+    <section id="speaking" class="view">
+      <div class="toolbar">
+        <select id="speakingTopic"><option value="">Все темы</option></select>
+        <button id="randomSpeakingBtn">Случайная speaking-карточка</button>
+      </div>
+      <div id="speakingList" class="cards"></div>
+    </section>
+
+    <section id="numbers" class="view">
+      <div id="numbersContent" class="cards"></div>
+    </section>
+
+    <section id="plan" class="view">
+      <div class="toolbar">
+        <input id="planSearch" type="search" placeholder="Поиск по плану: Behörden, Perfekt, Bewerbung..." />
+      </div>
+      <div id="planList" class="cards compact"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Made for GitHub Pages · Vanilla HTML/CSS/JS · Progress saved in localStorage</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "t001",
+    "question": "Выбери артикль: ___ Termin",
+    "options": [
+      "der",
+      "die",
+      "das",
+      "den"
+    ],
+    "answer": "der",
+    "explanation": "der Termin — мужской род.",
+    "level": "A1",
+    "topic": "Artikel",
+    "type": "Artikel"
+  },
+  {
+    "id": "t002",
+    "question": "Выбери Akkusativ: Ich brauche ___ Termin.",
+    "options": [
+      "ein",
+      "eine",
+      "einen",
+      "einem"
+    ],
+    "answer": "einen",
+    "explanation": "brauchen требует Akkusativ; der Termin → einen Termin.",
+    "level": "A1",
+    "topic": "Akkusativ",
+    "type": "Akkusativ"
+  },
+  {
+    "id": "t003",
+    "question": "Переведи: Ich habe eine Frage.",
+    "options": [
+      "У меня есть вопрос.",
+      "Я задаю вопрос.",
+      "У меня нет вопроса.",
+      "Я понимаю вопрос."
+    ],
+    "answer": "У меня есть вопрос.",
+    "explanation": "haben = иметь / у меня есть.",
+    "level": "A1",
+    "topic": "German → Russian",
+    "type": "German → Russian"
+  },
+  {
+    "id": "t004",
+    "question": "Вставь глагол: Heute ___ ich Deutsch.",
+    "options": [
+      "lerne",
+      "ich lerne",
+      "lernen",
+      "lernt"
+    ],
+    "answer": "lerne",
+    "explanation": "После Heute глагол стоит на позиции 2.",
+    "level": "A1",
+    "topic": "Word order",
+    "type": "Word order"
+  },
+  {
+    "id": "t005",
+    "question": "Вопрос: ___ wohnen Sie?",
+    "options": [
+      "Wo",
+      "Wer",
+      "Wie",
+      "Was"
+    ],
+    "answer": "Wo",
+    "explanation": "Wo = где.",
+    "level": "A1",
+    "topic": "W-Fragen",
+    "type": "W-Fragen"
+  },
+  {
+    "id": "t006",
+    "question": "Отрицание: Ich habe ___ Zeit.",
+    "options": [
+      "nicht",
+      "kein",
+      "keine",
+      "keinen"
+    ],
+    "answer": "keine",
+    "explanation": "die Zeit → keine Zeit.",
+    "level": "A1",
+    "topic": "kein/nicht",
+    "type": "kein/nicht"
+  },
+  {
+    "id": "t007",
+    "question": "Dativ: Ich spreche mit ___ Arzt.",
+    "options": [
+      "der",
+      "den",
+      "dem",
+      "die"
+    ],
+    "answer": "dem",
+    "explanation": "mit всегда Dativ; der Arzt → dem Arzt.",
+    "level": "A2",
+    "topic": "Dativ",
+    "type": "Dativ"
+  },
+  {
+    "id": "t008",
+    "question": "Perfekt: Ich ___ die Unterlagen geschickt.",
+    "options": [
+      "bin",
+      "habe",
+      "hat",
+      "ist"
+    ],
+    "answer": "habe",
+    "explanation": "schicken образует Perfekt с haben.",
+    "level": "A2",
+    "topic": "Perfekt",
+    "type": "Perfekt"
+  },
+  {
+    "id": "t009",
+    "question": "Perfekt: Ich ___ zum Arzt gegangen.",
+    "options": [
+      "habe",
+      "bin",
+      "hat",
+      "ist"
+    ],
+    "answer": "bin",
+    "explanation": "gehen — движение, Perfekt с sein.",
+    "level": "A2",
+    "topic": "Perfekt",
+    "type": "Perfekt"
+  },
+  {
+    "id": "t010",
+    "question": "Nebensatz: Ich lerne Deutsch, weil ich arbeiten ___.",
+    "options": [
+      "möchte",
+      "ich möchte",
+      "möchten",
+      "will ich"
+    ],
+    "answer": "möchte",
+    "explanation": "После weil глагол в конец.",
+    "level": "A2",
+    "topic": "weil",
+    "type": "weil"
+  },
+  {
+    "id": "t011",
+    "question": "deshalb: Mein Kind ist krank, ___ komme ich später.",
+    "options": [
+      "weil",
+      "dass",
+      "deshalb",
+      "obwohl"
+    ],
+    "answer": "deshalb",
+    "explanation": "deshalb соединяет два главных предложения.",
+    "level": "A2",
+    "topic": "Konnektoren",
+    "type": "Konnektoren"
+  },
+  {
+    "id": "t012",
+    "question": "obwohl: ___ ich müde bin, lerne ich.",
+    "options": [
+      "Obwohl",
+      "Deshalb",
+      "Trotzdem",
+      "Dass"
+    ],
+    "answer": "Obwohl",
+    "explanation": "obwohl = хотя.",
+    "level": "B1",
+    "topic": "obwohl",
+    "type": "obwohl"
+  },
+  {
+    "id": "t013",
+    "question": "Relativsatz: Das ist das Dokument, ___ ich brauche.",
+    "options": [
+      "der",
+      "die",
+      "das",
+      "den"
+    ],
+    "answer": "das",
+    "explanation": "das Dokument → das.",
+    "level": "B1",
+    "topic": "Relativsatz",
+    "type": "Relativsatz"
+  },
+  {
+    "id": "t014",
+    "question": "Konjunktiv II: ___ Sie mir bitte helfen?",
+    "options": [
+      "Können",
+      "Könnten",
+      "Kann",
+      "Könnt"
+    ],
+    "answer": "Könnten",
+    "explanation": "Könnten Sie...? — вежливая просьба.",
+    "level": "B1",
+    "topic": "Höflich",
+    "type": "Höflich"
+  },
+  {
+    "id": "t015",
+    "question": "Passiv: Der Antrag ___ geprüft.",
+    "options": [
+      "ist",
+      "hat",
+      "wird",
+      "war"
+    ],
+    "answer": "wird",
+    "explanation": "Passiv Präsens = wird + Partizip II.",
+    "level": "B1",
+    "topic": "Passiv",
+    "type": "Passiv"
+  },
+  {
+    "id": "t016",
+    "question": "Zahlen: 21 по-немецки",
+    "options": [
+      "zwanzigeins",
+      "einundzwanzig",
+      "einszwanzig",
+      "zwanzig und eins"
+    ],
+    "answer": "einundzwanzig",
+    "explanation": "В немецком: единицы + und + десятки.",
+    "level": "A1",
+    "topic": "Zahlen",
+    "type": "Zahlen"
+  },
+  {
+    "id": "t017",
+    "question": "Uhrzeit: 15:30 разговорно",
+    "options": [
+      "halb drei",
+      "halb vier",
+      "viertel vier",
+      "drei halb"
+    ],
+    "answer": "halb vier",
+    "explanation": "15:30 = halb vier.",
+    "level": "A1",
+    "topic": "Uhrzeit",
+    "type": "Uhrzeit"
+  },
+  {
+    "id": "t018",
+    "question": "Behörden: 'подать документы'",
+    "options": [
+      "Unterlagen machen",
+      "Unterlagen einreichen",
+      "Unterlagen wohnen",
+      "Unterlagen bekommen"
+    ],
+    "answer": "Unterlagen einreichen",
+    "explanation": "einreichen = submit.",
+    "level": "B1",
+    "topic": "Behörden",
+    "type": "Behörden"
+  },
+  {
+    "id": "t019",
+    "question": "Job interview: 'надёжный'",
+    "options": [
+      "zufrieden",
+      "zuständig",
+      "zuverlässig",
+      "zusätzlich"
+    ],
+    "answer": "zuverlässig",
+    "explanation": "zuverlässig = reliable.",
+    "level": "B1",
+    "topic": "Bewerbung",
+    "type": "Bewerbung"
+  },
+  {
+    "id": "t020",
+    "question": "Plural: das Kind → die ___",
+    "options": [
+      "Kinds",
+      "Kinder",
+      "Kindern",
+      "Kinde"
+    ],
+    "answer": "Kinder",
+    "explanation": "das Kind, die Kinder.",
+    "level": "A1",
+    "topic": "Plural",
+    "type": "Plural"
+  },
+  {
+    "id": "tv001",
+    "question": "Переведи на русский: Hallo",
+    "options": [
+      "привет",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "привет",
+    "explanation": "Hallo = привет. Пример: Hallo, ich heiße Serdar.",
+    "level": "A1.1",
+    "topic": "Begrüßung",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv002",
+    "question": "Переведи на русский: Guten Tag",
+    "options": [
+      "добрый день",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "добрый день",
+    "explanation": "Guten Tag = добрый день. Пример: Guten Tag, wie kann ich Ihnen helfen?",
+    "level": "A1.1",
+    "topic": "Begrüßung",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv003",
+    "question": "Переведи на русский: Auf Wiedersehen",
+    "options": [
+      "до свидания",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "до свидания",
+    "explanation": "Auf Wiedersehen = до свидания. Пример: Danke und auf Wiedersehen.",
+    "level": "A1.1",
+    "topic": "Begrüßung",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv004",
+    "question": "Переведи на русский: ich",
+    "options": [
+      "я",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "я",
+    "explanation": "ich = я. Пример: Ich wohne in Chemnitz.",
+    "level": "A1.1",
+    "topic": "Person",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv005",
+    "question": "Переведи на русский: Sie",
+    "options": [
+      "Вы",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "Вы",
+    "explanation": "Sie = Вы. Пример: Können Sie bitte langsam sprechen?",
+    "level": "A1.1",
+    "topic": "Person",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv006",
+    "question": "Переведи на русский: heißen",
+    "options": [
+      "называться / звать",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "называться / звать",
+    "explanation": "heißen = называться / звать. Пример: Ich heiße Serdar.",
+    "level": "A1.1",
+    "topic": "Person",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv007",
+    "question": "Переведи на русский: kommen",
+    "options": [
+      "приходить / быть родом",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "приходить / быть родом",
+    "explanation": "kommen = приходить / быть родом. Пример: Ich komme aus Turkmenistan.",
+    "level": "A1.1",
+    "topic": "Herkunft",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv008",
+    "question": "Переведи на русский: wohnen",
+    "options": [
+      "жить / проживать",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "жить / проживать",
+    "explanation": "wohnen = жить / проживать. Пример: Ich wohne in Deutschland.",
+    "level": "A1.1",
+    "topic": "Wohnen",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv009",
+    "question": "Переведи на русский: die Adresse",
+    "options": [
+      "адрес",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "адрес",
+    "explanation": "die Adresse = адрес. Пример: Meine Adresse ist neu.",
+    "level": "A1.1",
+    "topic": "Personendaten",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv010",
+    "question": "Переведи на русский: die Telefonnummer",
+    "options": [
+      "номер телефона",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "номер телефона",
+    "explanation": "die Telefonnummer = номер телефона. Пример: Wie ist Ihre Telefonnummer?",
+    "level": "A1.1",
+    "topic": "Personendaten",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv011",
+    "question": "Переведи на русский: die Familie",
+    "options": [
+      "семья",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "семья",
+    "explanation": "die Familie = семья. Пример: Meine Familie lebt in Deutschland.",
+    "level": "A1.1",
+    "topic": "Familie",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv012",
+    "question": "Переведи на русский: das Kind",
+    "options": [
+      "ребёнок",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "ребёнок",
+    "explanation": "das Kind = ребёнок. Пример: Mein Kind geht in den Kindergarten.",
+    "level": "A1.1",
+    "topic": "Familie",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv013",
+    "question": "Переведи на русский: der Kindergarten",
+    "options": [
+      "детский сад",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "детский сад",
+    "explanation": "der Kindergarten = детский сад. Пример: Der Kindergarten ist heute geschlossen.",
+    "level": "A1.1",
+    "topic": "Familie",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv014",
+    "question": "Переведи на русский: die Frage",
+    "options": [
+      "вопрос",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "вопрос",
+    "explanation": "die Frage = вопрос. Пример: Ich habe eine Frage.",
+    "level": "A1.1",
+    "topic": "Deutschkurs",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv015",
+    "question": "Переведи на русский: verstehen",
+    "options": [
+      "понимать",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "понимать",
+    "explanation": "verstehen = понимать. Пример: Ich verstehe das nicht.",
+    "level": "A1.1",
+    "topic": "Deutschkurs",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv016",
+    "question": "Переведи на русский: langsam",
+    "options": [
+      "медленно",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "медленно",
+    "explanation": "langsam = медленно. Пример: Sprechen Sie bitte langsam.",
+    "level": "A1.1",
+    "topic": "Deutschkurs",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv017",
+    "question": "Переведи на русский: wiederholen",
+    "options": [
+      "повторять",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "повторять",
+    "explanation": "wiederholen = повторять. Пример: Können Sie das bitte wiederholen?",
+    "level": "A1.1",
+    "topic": "Deutschkurs",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv018",
+    "question": "Переведи на русский: die Zahl",
+    "options": [
+      "число / цифра",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "число / цифра",
+    "explanation": "die Zahl = число / цифра. Пример: Die Zahl ist falsch.",
+    "level": "A1.1",
+    "topic": "Zahlen",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv019",
+    "question": "Переведи на русский: bezahlen",
+    "options": [
+      "платить",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "платить",
+    "explanation": "bezahlen = платить. Пример: Ich möchte mit Karte bezahlen.",
+    "level": "A1.2",
+    "topic": "Einkaufen",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv020",
+    "question": "Переведи на русский: der Preis",
+    "options": [
+      "цена",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "цена",
+    "explanation": "der Preis = цена. Пример: Der Preis ist zu hoch.",
+    "level": "A1.2",
+    "topic": "Einkaufen",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv021",
+    "question": "Переведи на русский: die Wohnung",
+    "options": [
+      "квартира",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "квартира",
+    "explanation": "die Wohnung = квартира. Пример: Unsere Wohnung ist klein, aber hell.",
+    "level": "A1.2",
+    "topic": "Wohnen",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv022",
+    "question": "Переведи на русский: das Zimmer",
+    "options": [
+      "комната",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "комната",
+    "explanation": "das Zimmer = комната. Пример: Das Zimmer ist frei.",
+    "level": "A1.2",
+    "topic": "Wohnen",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv023",
+    "question": "Переведи на русский: der Termin",
+    "options": [
+      "термин / встреча по записи",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "термин / встреча по записи",
+    "explanation": "der Termin = термин / встреча по записи. Пример: Ich brauche einen Termin.",
+    "level": "A1.2",
+    "topic": "Termine",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv024",
+    "question": "Переведи на русский: krank",
+    "options": [
+      "больной",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "больной",
+    "explanation": "krank = больной. Пример: Mein Kind ist krank.",
+    "level": "A1.2",
+    "topic": "Gesundheit",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv025",
+    "question": "Переведи на русский: der Arzt",
+    "options": [
+      "врач",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "врач",
+    "explanation": "der Arzt = врач. Пример: Ich muss zum Arzt gehen.",
+    "level": "A1.2",
+    "topic": "Gesundheit",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv026",
+    "question": "Переведи на русский: die Apotheke",
+    "options": [
+      "аптека",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "аптека",
+    "explanation": "die Apotheke = аптека. Пример: Wo ist die nächste Apotheke?",
+    "level": "A1.2",
+    "topic": "Gesundheit",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv027",
+    "question": "Переведи на русский: die Arbeit",
+    "options": [
+      "работа",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "работа",
+    "explanation": "die Arbeit = работа. Пример: Ich suche Arbeit.",
+    "level": "A1.2",
+    "topic": "Arbeit",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv028",
+    "question": "Переведи на русский: arbeiten",
+    "options": [
+      "работать",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "работать",
+    "explanation": "arbeiten = работать. Пример: Ich arbeite als QA Engineer.",
+    "level": "A1.2",
+    "topic": "Arbeit",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv029",
+    "question": "Переведи на русский: der Beruf",
+    "options": [
+      "профессия",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "профессия",
+    "explanation": "der Beruf = профессия. Пример: Was sind Sie von Beruf?",
+    "level": "A1.2",
+    "topic": "Arbeit",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv030",
+    "question": "Переведи на русский: die Hausaufgabe",
+    "options": [
+      "домашнее задание",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "домашнее задание",
+    "explanation": "die Hausaufgabe = домашнее задание. Пример: Ich habe die Hausaufgaben gemacht.",
+    "level": "A1.2",
+    "topic": "Deutschkurs",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv031",
+    "question": "Переведи на русский: die App",
+    "options": [
+      "приложение",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "приложение",
+    "explanation": "die App = приложение. Пример: Ich benutze eine App zum Deutschlernen.",
+    "level": "A2.1",
+    "topic": "Digital",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv032",
+    "question": "Переведи на русский: herunterladen",
+    "options": [
+      "скачивать",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "скачивать",
+    "explanation": "herunterladen = скачивать. Пример: Ich muss die Datei herunterladen.",
+    "level": "A2.1",
+    "topic": "Digital",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv033",
+    "question": "Переведи на русский: hochladen",
+    "options": [
+      "загружать",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "загружать",
+    "explanation": "hochladen = загружать. Пример: Bitte laden Sie das Dokument hoch.",
+    "level": "A2.1",
+    "topic": "Digital",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv034",
+    "question": "Переведи на русский: der Bahnhof",
+    "options": [
+      "вокзал",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "вокзал",
+    "explanation": "der Bahnhof = вокзал. Пример: Wir treffen uns am Bahnhof.",
+    "level": "A2.1",
+    "topic": "Verkehr",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv035",
+    "question": "Переведи на русский: das Gleis",
+    "options": [
+      "путь / платформа",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "путь / платформа",
+    "explanation": "das Gleis = путь / платформа. Пример: Der Zug fährt von Gleis 3 ab.",
+    "level": "A2.1",
+    "topic": "Verkehr",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv036",
+    "question": "Переведи на русский: abfahren",
+    "options": [
+      "отправляться",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "отправляться",
+    "explanation": "abfahren = отправляться. Пример: Der Bus fährt um acht Uhr ab.",
+    "level": "A2.1",
+    "topic": "Verkehr",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv037",
+    "question": "Переведи на русский: ankommen",
+    "options": [
+      "прибывать",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "прибывать",
+    "explanation": "ankommen = прибывать. Пример: Der Zug kommt um 13:17 Uhr an.",
+    "level": "A2.1",
+    "topic": "Verkehr",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv038",
+    "question": "Переведи на русский: die Verspätung",
+    "options": [
+      "опоздание",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "опоздание",
+    "explanation": "die Verspätung = опоздание. Пример: Der Zug hat zehn Minuten Verspätung.",
+    "level": "A2.1",
+    "topic": "Verkehr",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv039",
+    "question": "Переведи на русский: der Antrag",
+    "options": [
+      "заявление",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "заявление",
+    "explanation": "der Antrag = заявление. Пример: Ich möchte einen Antrag stellen.",
+    "level": "A2.1",
+    "topic": "Behörden",
+    "type": "German → Russian"
+  },
+  {
+    "id": "tv040",
+    "question": "Переведи на русский: ausfüllen",
+    "options": [
+      "заполнять",
+      "ошибка",
+      "другое значение",
+      "не знаю"
+    ],
+    "answer": "заполнять",
+    "explanation": "ausfüllen = заполнять. Пример: Bitte füllen Sie das Formular aus.",
+    "level": "A2.1",
+    "topic": "Behörden",
+    "type": "German → Russian"
+  }
+]
