@@ -154,7 +154,7 @@ function renderSpeak(){
  <h2 class="section-title">Твоя очередь</h2><div class="card"><p>${esc(task[0]||"Расскажи своими словами, что ты понял, и ответь на одну из фраз.")}</p><textarea id="spokenDraft" class="textarea" placeholder="Можешь записать ответ здесь или сказать вслух."></textarea><p class="tiny muted">Автоматической оценки произношения пока нет. Скажи ответ без подсказки, а затем сравни с примерами.</p></div>`;
 }
 function createQuiz(){
- const tests=DATA.tests.filter(x=>Array.isArray(x.options)&&typeof x.answer==="string");
+ const tests=DATA.tests.filter(x=>Array.isArray(x.options)&&typeof x.answer==="string"&&["A1","A2"].includes(x.level));
  const selected=[...tests].sort(()=>Math.random()-.5).slice(0,10);
  UI.quiz={list:selected,pos:0,score:0,answered:false,pick:null};go("tests");
 }
