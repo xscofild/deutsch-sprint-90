@@ -6,11 +6,12 @@ const NEW_LIMIT=12;
 const STEPS=[1,3,7,14,30];
 let DATA={words:[],grammar:[],speaking:[],tests:[]};
 const UI={view:"today",deck:"all",filter:"all",level:"A2",search:"",lesson:null,word:null,scenario:null,session:null,quiz:null,showAllWords:false};
-let S=loadState();
+
 const $=q=>document.querySelector(q);
 const esc=v=>String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const dateKey=d=>[d.getFullYear(),String(d.getMonth()+1).padStart(2,"0"),String(d.getDate()).padStart(2,"0")].join("-");
 const today=()=>dateKey(new Date());
+let S=loadState();
 function addDays(key,n){const [y,m,d]=key.split("-").map(Number),day=new Date(y,m-1,d);day.setDate(day.getDate()+n);return dateKey(day);}
 const daysLeft=()=>Math.max(0,Math.round((new Date(2026,11,31).getTime()-new Date(new Date().getFullYear(),new Date().getMonth(),new Date().getDate()).getTime())/86400000));
 function loadState(){try{const o=JSON.parse(localStorage.getItem(KEY)||"{}");return{cards:o.cards||{},history:o.history||{},grammarDone:o.grammarDone||{},misses:o.misses||{},introduced:o.introduced||{},startDate:o.startDate||today(),theme:o.theme||"light",migrated:!!o.migrated};}catch{return{cards:{},history:{},grammarDone:{},misses:{},introduced:{},startDate:today(),theme:"light",migrated:false};}}
