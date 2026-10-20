@@ -185,10 +185,116 @@ function renderMore(){
  <button class="deck" data-view="speak"><span class="deck-ic mint">♫</span><span class="deck-copy"><strong>Разговорная практика</strong><small>Реальные диалоги с переводом</small></span><span class="chevron">›</span></button>
  <button class="deck" data-view="tests"><span class="deck-ic peach">✓</span><span class="deck-copy"><strong>Тесты</strong><small>Мини-проверки с объяснениями</small></span><span class="chevron">›</span></button>
  <button class="deck" data-view="progress"><span class="deck-ic sky">▥</span><span class="deck-copy"><strong>Мой прогресс</strong><small>Изученные слова, слабые места, серия дней</small></span><span class="chevron">›</span></button>
+ <div class="card mt18"><h3>Проверка озвучивания</h3><p class="small muted">Если слова молчат на iPhone, проверь громкость мультимедиа и беззвучный режим. Кнопка ниже покажет статус голосового движка.</p><p id="speechStatus" class="small strong">Нажми «Проверить голос».</p><div class="row"><button class="btn primary" data-action="speechTest">♫ Проверить голос</button><button class="btn soft" data-action="speechInfo">Диагностика</button></div><p class="tiny muted mt18">В iOS иногда требуется установленный немецкий голос: Настройки → Универсальный доступ → Устный контент → Голоса → Немецкий.</p></div>
  <div class="card mt18"><h3>Мои данные</h3><p class="small muted">Прогресс хранится в этом браузере. При удалении данных Safari он исчезнет — регулярно сохраняй резервную копию.</p><button class="btn primary full mb14" data-action="export">↓ Экспорт прогресса JSON</button><label for="progressImport" class="btn soft full" style="cursor:pointer">↑ Импорт резервной копии</label><input id="progressImport" type="file" accept=".json,application/json" hidden><hr class="line"><button class="btn outline danger full" data-action="reset">Сбросить весь прогресс</button></div>
  <div class="soft-warning"><b>До 31 декабря:</b> 12 новых карточек в день — максимум, не обязательство. Пройди A2-диагностику, работай над пробелами и регулярно повторяй слова. Ни одно приложение само по себе не гарантирует B1.</div>`;
 }
-function speak(txt){if(!("speechSynthesis" in window)){toast("Озвучивание недоступно в этом браузере.");return;}const synth=window.speechSynthesis;synth.cancel();const u=new SpeechSynthesisUtterance(txt);u.lang="de-DE";u.rate=.86;const voices=synth.getVoices();const german=voices.find(v=>v.lang.toLowerCase().startsWith("de"));if(german)u.voice=german;synth.speak(u);}
+// iOS Safari can silently drop Web Speech utterances after a synchronous
+// cancel(), can load its voices late, and may garbage-collect an utterance.
+// Hold the utterance, avoid unnecessary cancel(), unlock audio on a tap,
+// and retry with the system voice if the first attempt never starts.
+let activeSpeech=null;
+let speechRequest=0;
+let speechTimer=null;
+let speechAudioContext=null;
+function speechStatus(message){
+  const status=document.getElementById("speechStatus");
+  if(status)status.textContent=message;
+}
+function speechFail(){
+  speechStatus("Озвучивание не запустилось. Проверь громкость и беззвучный режим iPhone.");
+  toast("Нет звука? Открой «Ещё» → «Проверка озвучивания».");
+}
+function speak(txt){
+  if(!txt||!txt.trim())return;
+  if(!("speechSynthesis" in window)||typeof SpeechSynthesisUtterance==="undefined"){
+    toast("Этот браузер не поддерживает произношение.");
+    speechStatus("Web Speech недоступен.");
+    return;
+  }
+  const synth=window.speechSynthesis;
+  const current=++speechRequest;
+  clearTimeout(speechTimer);
+  // The audio context is resumed in the user gesture itself.
+  try{
+    const AC=window.AudioContext||window.webkitAudioContext;
+    if(AC){
+      if(!speechAudioContext)speechAudioContext=new AC();
+      if(speechAudioContext.state==="suspended")speechAudioContext.resume().catch(()=>{});
+    }
+  }catch(e){console.debug("Audio unlock not needed",e);}
+  try{
+    if(synth.speaking||synth.pending)synth.cancel();
+    if(synth.paused)synth.resume();
+  }catch(e){console.warn("Speech queue reset",e);}
+  speechStatus("Запускаю немецкое произношение…");
+  function attempt(useDefault){
+    if(current!==speechRequest)return;
+    let started=false;
+    const utterance=new SpeechSynthesisUtterance(txt.trim());
+    utterance.lang="de-DE";
+    utterance.rate=0.90;
+    utterance.pitch=1;
+    utterance.volume=1;
+    // iOS Safari often fails when a voice from getVoices() is assigned
+    // explicitly. The system selects a German voice from lang instead.
+    if(!useDefault&&!/iPhone|iPad|iPod/i.test(navigator.userAgent)){
+      const voices=synth.getVoices()||[];
+      const german=voices.find(v=>v.lang&&v.lang.toLowerCase()==="de-de")||
+                   voices.find(v=>v.lang&&v.lang.toLowerCase().startsWith("de"));
+      if(german)utterance.voice=german;
+    }
+    activeSpeech=utterance; // Safari needs a live reference
+    utterance.onstart=()=>{
+      if(current!==speechRequest)return;
+      started=true;
+      clearTimeout(speechTimer);
+      speechStatus("🔊 Произносится: "+txt);
+    };
+    utterance.onend=()=>{
+      if(current!==speechRequest)return;
+      clearTimeout(speechTimer);
+      speechStatus("✓ Озвучивание завершено");
+    };
+    utterance.onerror=event=>{
+      if(current!==speechRequest)return;
+      clearTimeout(speechTimer);
+      console.warn("Web Speech error",event.error);
+      if(!started&&!useDefault&&event.error!=="interrupted"&&event.error!=="canceled"){
+        try{synth.cancel();}catch(e){}
+        speechTimer=setTimeout(()=>attempt(true),160);
+      }else if(event.error!=="interrupted"&&event.error!=="canceled"){
+        speechFail();
+      }
+    };
+    try{
+      synth.speak(utterance);
+    }catch(e){
+      console.error("Speech start failed",e);
+      if(!useDefault){speechTimer=setTimeout(()=>attempt(true),160);}
+      else speechFail();
+      return;
+    }
+    // Some iOS builds neither speak nor fire an error. Retry once.
+    speechTimer=setTimeout(()=>{
+      if(current!==speechRequest||started)return;
+      if(!useDefault){
+        try{synth.cancel();}catch(e){}
+        setTimeout(()=>attempt(true),180);
+      }else speechFail();
+    },2600);
+  }
+  attempt(false);
+}
+function speechDiagnostic(){
+  const supported=("speechSynthesis" in window)&&typeof SpeechSynthesisUtterance!=="undefined";
+  const voices=supported?(speechSynthesis.getVoices()||[]):[];
+  const german=voices.filter(v=>v.lang&&v.lang.toLowerCase().startsWith("de"));
+  speechStatus(supported?
+    "Движок речи: доступен · голосов: "+voices.length+" · немецких: "+german.length+
+    ". Нажми «Произнести Test», затем увеличь громкость во время воспроизведения.":
+    "Движок речи: недоступен в текущем браузере.");
+}
 function exportProgress(){const blob=new Blob([JSON.stringify({application:"Deutsch Klar",version:1,exported:today(),state:S},null,2)],{type:"application/json"});const url=URL.createObjectURL(blob),a=document.createElement("a");a.href=url;a.download="deutsch-klar-backup-"+today()+".json";document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),2000);toast("Резервная копия сохранена");}
 document.addEventListener("click",e=>{
  const view=e.target.closest("[data-view]");if(view){go(view.dataset.view);return;}
@@ -206,6 +312,8 @@ document.addEventListener("click",e=>{
  else if(act==="markGrammar"){S.grammarDone[id]=today();save();render();toast("Тема отмечена");}
  else if(act==="scenario"){UI.scenario=id;render();}
  else if(act==="speak")speak(el.dataset.text||"");
+ else if(act==="speechTest")speak("Guten Tag! Ich lerne Deutsch. Eins, zwei, drei.");
+ else if(act==="speechInfo")speechDiagnostic();
  else if(act==="quizStart")createQuiz();
  else if(act==="quizAnswer"&&UI.quiz&&!UI.quiz.answered){const q=UI.quiz,item=q.list[q.pos],idx=Number(id);q.pick=idx;q.answered=true;S.history[today()]||={reviewed:0,correct:0};if(item.options[idx]===item.answer){q.score++;}else{S.misses[item.topic||"Grammatik"]=(S.misses[item.topic||"Grammatik"]||0)+1;}save();render();}
  else if(act==="quizNext"&&UI.quiz){UI.quiz.pos++;UI.quiz.answered=false;render();}
