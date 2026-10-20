@@ -12,21 +12,21 @@
   "exampleDE": "Er antwortet nicht.",
   "exampleRU": "",
   "priority": "high",
-  "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "notes": "antworten auf + Akkusativ",
+  "preterite": "antwortete",
+  "participle": "geantwortet",
+  "aux": "haben"
  },
  {
   "id": "wl-2q-2x-38-38-2t",
   "german": "bitte",
   "artikel": "",
-  "plural": "-n",
+  "plural": "",
   "russian": "пожалуйста",
   "english": "please/thank you",
   "level": "A1",
   "topic": "Kommunikation",
-  "pos": "noun",
+  "pos": "other",
   "exampleDE": "Eine Tasse Kaffee, bitte! Sprechen Sie bitte leise!",
   "exampleRU": "",
   "priority": "high",
@@ -102,10 +102,10 @@
   "exampleDE": "Er möchte Sie etwas fragen. Wann kommen Sie?",
   "exampleRU": "",
   "priority": "high",
-  "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "notes": "fragen nach + Dativ / jemanden + Akkusativ fragen",
+  "preterite": "fragte",
+  "participle": "gefragt",
+  "aux": "haben"
  },
  {
   "id": "wl-1y-36-2p-39",
@@ -139,9 +139,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "ging",
+  "participle": "gegangen",
+  "aux": "sein"
  },
  {
   "id": "wl-2v-39-38",
@@ -193,9 +193,9 @@
   "exampleRU": "Меня зовут Сердар.",
   "priority": "high",
   "notes": "ich heiße, du heißt, er heißt",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "hieß",
+  "participle": "geheißen",
+  "aux": "haben"
  },
  {
   "id": "wl-20-2t-36-36",
@@ -229,9 +229,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "hörte",
+  "participle": "gehört",
+  "aux": "haben"
  },
  {
   "id": "wl-2y-2p",
@@ -265,9 +265,9 @@
   "exampleRU": "Я из Туркменистана.",
   "priority": "high",
   "notes": "aus + Dativ",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "kam",
+  "participle": "gekommen",
+  "aux": "sein"
  },
  {
   "id": "wl-23-39-36-37",
@@ -301,9 +301,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "las",
+  "participle": "gelesen",
+  "aux": "haben"
  },
  {
   "id": "wl-25-2p-32-32",
@@ -427,9 +427,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "schrieb",
+  "participle": "geschrieben",
+  "aux": "haben"
  },
  {
   "id": "wl-2b-34-36-2p-2r-2w-2t",
@@ -463,9 +463,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "sprach",
+  "participle": "gesprochen",
+  "aux": "haben"
  },
  {
   "id": "wl-2c-2p-2v",
@@ -517,9 +517,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "wusste",
+  "participle": "gewusst",
+  "aux": "haben"
  },
  {
   "id": "wl-2f-33-36-38",
@@ -589,9 +589,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "meldete an",
+  "participle": "angemeldet",
+  "aux": "haben"
  },
  {
   "id": "wl-1t-32-31-2t-30-2s-39-32-2v",
@@ -625,9 +625,9 @@
   "exampleRU": "Я работаю QA-инженером.",
   "priority": "high",
   "notes": "als + профессия без артикля",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "arbeitete",
+  "participle": "gearbeitet",
+  "aux": "haben"
  },
  {
   "id": "wl-1u-36-39-2s-2t-36",
@@ -661,9 +661,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "buchstabierte",
+  "participle": "buchstabiert",
+  "aux": "haben"
  },
  {
   "id": "wl-1x-30-38-2t-36-32",
@@ -746,7 +746,7 @@
   "english": "divorced/separated",
   "level": "A1",
   "topic": "Behörden",
-  "pos": "verb",
+  "pos": "other",
   "exampleDE": "",
   "exampleRU": "",
   "priority": "high",
@@ -895,9 +895,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "mochte",
+  "participle": "gemocht",
+  "aux": "haben"
  },
  {
   "id": "wl-25-39-38-38-2t-36",
@@ -1093,9 +1093,9 @@
   "exampleRU": "Я живу в Германии.",
   "priority": "high",
   "notes": "in + Dativ для города/страны",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "wohnte",
+  "participle": "gewohnt",
+  "aux": "haben"
  },
  {
   "id": "wl-1w-2x-2t-32-37-38-2p-2v",
@@ -1147,9 +1147,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "erklärte",
+  "participle": "erklärt",
+  "aux": "haben"
  },
  {
   "id": "wl-1y-36-2t-2x-38-2p-2v",
@@ -1196,7 +1196,7 @@
   "english": "yesterday",
   "level": "A1",
   "topic": "Zeit/Zahlen",
-  "pos": "verb",
+  "pos": "other",
   "exampleDE": "Gestern war ich krank.",
   "exampleRU": "",
   "priority": "high",
@@ -1345,9 +1345,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "lernte",
+  "participle": "gelernt",
+  "aux": "haben"
  },
  {
   "id": "wl-31-2p-2r-2w-2t-32",
@@ -1363,9 +1363,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "machte",
+  "participle": "gemacht",
+  "aux": "haben"
  },
  {
   "id": "wl-25-2x-38-38-3b-33-2r-2w",
@@ -1453,9 +1453,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "sagte",
+  "participle": "gesagt",
+  "aux": "haben"
  },
  {
   "id": "wl-2b-2p-31-37-38-2p-2v",
@@ -1489,9 +1489,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "sah",
+  "participle": "gesehen",
+  "aux": "haben"
  },
  {
   "id": "wl-2b-2r-2w-30-70-37-37-2t-30",
@@ -1561,9 +1561,9 @@
   "exampleRU": "Я это не понимаю.",
   "priority": "high",
   "notes": "сразу учить Ich verstehe das nicht",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "verstand",
+  "participle": "verstanden",
+  "aux": "haben"
  },
  {
   "id": "wl-2f-33-2r-2w-2t",
@@ -1610,7 +1610,7 @@
   "english": "together",
   "level": "A1",
   "topic": "Alltag",
-  "pos": "verb",
+  "pos": "other",
   "exampleDE": "Wir gehen zusammen ins Kino.",
   "exampleRU": "",
   "priority": "high",
@@ -1687,9 +1687,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "brauchte",
+  "participle": "gebraucht",
+  "aux": "haben"
  },
  {
   "id": "wl-1u-36-33-38",
@@ -1808,7 +1808,7 @@
   "english": "very much",
   "level": "A1",
   "topic": "Kommunikation",
-  "pos": "verb",
+  "pos": "other",
   "exampleDE": "Ich esse gern Tomaten.",
   "exampleRU": "",
   "priority": "high",
@@ -1849,9 +1849,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "kaufte",
+  "participle": "gekauft",
+  "aux": "haben"
  },
  {
   "id": "wl-2z-33-37-38-2t-32",
@@ -1867,9 +1867,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "kostete",
+  "participle": "gekostet",
+  "aux": "haben"
  },
  {
   "id": "wl-25-2x-30-2r-2w",
@@ -1903,9 +1903,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "musste",
+  "participle": "gemusst",
+  "aux": "haben"
  },
  {
   "id": "wl-32-2t-2w-31-2t-32",
@@ -1921,9 +1921,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "nahm",
+  "participle": "genommen",
+  "aux": "haben"
  },
  {
   "id": "wl-27-2q-37-38",
@@ -1975,9 +1975,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "schmeckte",
+  "participle": "geschmeckt",
+  "aux": "haben"
  },
  {
   "id": "wl-37-2r-2w-6u-32",
@@ -2029,9 +2029,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "trank",
+  "participle": "getrunken",
+  "aux": "haben"
  },
  {
   "id": "wl-2f-2p-37-37-2t-36",
@@ -2064,10 +2064,10 @@
   "exampleDE": "Ich rufe dich an.",
   "exampleRU": "",
   "priority": "high",
-  "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "notes": "anrufen + Akkusativ",
+  "preterite": "rief an",
+  "participle": "angerufen",
+  "aux": "haben"
  },
  {
   "id": "wl-1t-36-2q-2t-2x-38",
@@ -2101,9 +2101,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "stand auf",
+  "participle": "aufgestanden",
+  "aux": "sein"
  },
  {
   "id": "wl-2u-36-70-2w",
@@ -2155,9 +2155,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "kochte",
+  "participle": "gekocht",
+  "aux": "haben"
  },
  {
   "id": "wl-2z-6u-32-32-2t-32",
@@ -2173,9 +2173,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "konnte",
+  "participle": "gekonnt",
+  "aux": "haben"
  },
  {
   "id": "wl-30-2t-2r-2z-2t-36",
@@ -2245,9 +2245,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "putzte",
+  "participle": "geputzt",
+  "aux": "haben"
  },
  {
   "id": "wl-37-2r-2w-30-2p-2u-2t-32",
@@ -2263,9 +2263,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "schlief",
+  "participle": "geschlafen",
+  "aux": "haben"
  },
  {
   "id": "wl-2b-2r-2w-39-30-2t",
@@ -2425,9 +2425,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "bekam",
+  "participle": "bekommen",
+  "aux": "haben"
  },
  {
   "id": "wl-2q-2x-30-30-2x-2v",
@@ -2461,9 +2461,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "kaufte ein",
+  "participle": "eingekauft",
+  "aux": "haben"
  },
  {
   "id": "wl-2u-2x-32-2s-2t-32",
@@ -2479,9 +2479,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "fand",
+  "participle": "gefunden",
+  "aux": "haben"
  },
  {
   "id": "wl-1y-2x-36-31-2p",
@@ -2568,10 +2568,10 @@
   "exampleDE": "Können Sie mir helfen, bitte?",
   "exampleRU": "",
   "priority": "high",
-  "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "notes": "helfen + Dativ",
+  "preterite": "half",
+  "participle": "geholfen",
+  "aux": "haben"
  },
  {
   "id": "wl-20-2x-30-2u-2t",
@@ -2713,9 +2713,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "sollte",
+  "participle": "gesollt",
+  "aux": "haben"
  },
  {
   "id": "wl-37-39-2r-2w-2t-32",
@@ -2730,10 +2730,10 @@
   "exampleDE": "Suchst du etwas?",
   "exampleRU": "",
   "priority": "high",
-  "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "notes": "suchen + Akkusativ",
+  "preterite": "suchte",
+  "participle": "gesucht",
+  "aux": "haben"
  },
  {
   "id": "wl-3b-2p-37-2r-2w-2t-32",
@@ -2749,9 +2749,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "wusch",
+  "participle": "gewaschen",
+  "aux": "haben"
  },
  {
   "id": "wl-3b-2x-2r-2w-38-2x-2v",
@@ -2803,9 +2803,9 @@
   "exampleRU": "Автобус отправляется в восемь часов.",
   "priority": "high",
   "notes": "trennbar: fährt ab",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "fuhr ab",
+  "participle": "abgefahren",
+  "aux": "sein"
  },
  {
   "id": "wl-2p-30-30-2t-2x-32",
@@ -2838,10 +2838,10 @@
   "exampleDE": "Hier fängt die Bahnhofstraße an. Der Unterricht fängt gleich an.",
   "exampleRU": "",
   "priority": "high",
-  "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "notes": "anfangen mit + Dativ",
+  "preterite": "fing an",
+  "participle": "angefangen",
+  "aux": "haben"
  },
  {
   "id": "wl-2p-32-2z-33-31-31-2t-32",
@@ -2857,9 +2857,9 @@
   "exampleRU": "Поезд прибывает в 13:17.",
   "priority": "high",
   "notes": "Perfekt with sein",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "kam an",
+  "participle": "angekommen",
+  "aux": "sein"
  },
  {
   "id": "wl-1t-32-36-39-2u",
@@ -2911,9 +2911,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "hörte auf",
+  "participle": "aufgehört",
+  "aux": "haben"
  },
  {
   "id": "wl-2p-39-37-2u-70-30-30-2t-32",
@@ -2929,9 +2929,9 @@
   "exampleRU": "Пожалуйста, заполните формуляр.",
   "priority": "high",
   "notes": "trennbar",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "füllte aus",
+  "participle": "ausgefüllt",
+  "aux": "haben"
  },
  {
   "id": "wl-1t-39-37-3b-2t-2x-37",
@@ -3037,9 +3037,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "bedeutete",
+  "participle": "bedeutet",
+  "aux": "haben"
  },
  {
   "id": "wl-1u-2t-36-39-2u",
@@ -3091,9 +3091,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "bestellte",
+  "participle": "bestellt",
+  "aux": "haben"
  },
  {
   "id": "wl-2q-2t-3e-2p-2w-30-2t-32",
@@ -3109,9 +3109,9 @@
   "exampleRU": "Я хочу оплатить картой.",
   "priority": "high",
   "notes": "магазин/касса/кафе",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "bezahlte",
+  "participle": "bezahlt",
+  "aux": "haben"
  },
  {
   "id": "wl-2q-30-2t-2x-2q-2t-32",
@@ -3127,9 +3127,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "blieb",
+  "participle": "geblieben",
+  "aux": "sein"
  },
  {
   "id": "wl-1u-36-2x-2t-2u",
@@ -3163,9 +3163,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "brachte",
+  "participle": "gebracht",
+  "aux": "haben"
  },
  {
   "id": "wl-1u-39-37",
@@ -3235,9 +3235,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "durfte",
+  "participle": "gedurft",
+  "aux": "haben"
  },
  {
   "id": "wl-14-37-2x-2r-2w-15-w-2s-39-37-2r-2w-2t-32",
@@ -3253,9 +3253,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "duschte (sich)",
+  "participle": "geduscht",
+  "aux": "haben"
  },
  {
   "id": "wl-1x-2w-2t-2u-36-2p-39",
@@ -3325,9 +3325,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "fuhr",
+  "participle": "gefahren",
+  "aux": "sein"
  },
  {
   "id": "wl-1y-2p-2w-36-2z-2p-36-38-2t",
@@ -3415,9 +3415,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "flog",
+  "participle": "geflogen",
+  "aux": "sein"
  },
  {
   "id": "wl-1y-30-39-2v-2w-2p-2u-2t-32",
@@ -3464,7 +3464,7 @@
   "english": "born",
   "level": "A1",
   "topic": "Behörden",
-  "pos": "verb",
+  "pos": "other",
   "exampleDE": "Ich bin in Zagreb geboren.",
   "exampleRU": "",
   "priority": "high",
@@ -3541,9 +3541,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "glaubte",
+  "participle": "geglaubt",
+  "aux": "haben"
  },
  {
   "id": "wl-1z-30-2t-2x-37",
@@ -3685,9 +3685,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "holte",
+  "participle": "geholt",
+  "aux": "haben"
  },
  {
   "id": "wl-20-33-38-2t-30",
@@ -3793,9 +3793,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "kannte",
+  "participle": "gekannt",
+  "aux": "haben"
  },
  {
   "id": "wl-23-33-2u-2u-2t-36",
@@ -3937,9 +3937,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "mietete",
+  "participle": "gemietet",
+  "aux": "haben"
  },
  {
   "id": "wl-26-39-31-31-2t-36",
@@ -3973,9 +3973,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "öffnete",
+  "participle": "geöffnet",
+  "aux": "haben"
  },
  {
   "id": "wl-28-2p-37-37",
@@ -4153,9 +4153,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "reparierte",
+  "participle": "repariert",
+  "aux": "haben"
  },
  {
   "id": "wl-2a-2t-37-38-2p-39-36-2p-32-38",
@@ -4189,9 +4189,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "schickte",
+  "participle": "geschickt",
+  "aux": "haben"
  },
  {
   "id": "wl-37-2r-2w-30-2t-2r-2w-38",
@@ -4225,9 +4225,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "schloss",
+  "participle": "geschlossen",
+  "aux": "haben"
  },
  {
   "id": "wl-2v-2t-37-2r-2w-30-33-37-37-2t-32",
@@ -4238,7 +4238,7 @@
   "english": "closed",
   "level": "A1",
   "topic": "Einkaufen",
-  "pos": "verb",
+  "pos": "other",
   "exampleDE": "Die Bank hat am Samstag geschlossen.",
   "exampleRU": "",
   "priority": "high",
@@ -4333,9 +4333,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "studierte",
+  "participle": "studiert",
+  "aux": "haben"
  },
  {
   "id": "wl-2c-2t-30-2t-2u-33-32",
@@ -4387,9 +4387,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "überwies",
+  "participle": "überwiesen",
+  "aux": "haben"
  },
  {
   "id": "wl-39-31-3e-2x-2t-2w-2t-32",
@@ -4405,9 +4405,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "zog um",
+  "participle": "umgezogen",
+  "aux": "sein"
  },
  {
   "id": "wl-39-32-38-2t-36-37-2r-2w-36-2t-2x-2q-2t-32",
@@ -4423,9 +4423,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "unterschrieb",
+  "participle": "unterschrieben",
+  "aux": "haben"
  },
  {
   "id": "wl-2d-32-38-2t-36-37-2r-2w-36-2x-2u-38",
@@ -4477,9 +4477,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "verkaufte",
+  "participle": "verkauft",
+  "aux": "haben"
  },
  {
   "id": "wl-2e-2t-36-31-2x-2t-38-2t-36",
@@ -4530,10 +4530,10 @@
   "exampleDE": "Können Sie ein paar Minuten warten? Auf wen warten Sie?",
   "exampleRU": "",
   "priority": "high",
-  "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "notes": "warten auf + Akkusativ",
+  "preterite": "wartete",
+  "participle": "gewartet",
+  "aux": "haben"
  },
  {
   "id": "wl-3b-2t-2x-38",
@@ -4567,9 +4567,9 @@
   "exampleRU": "Можете это повторить, пожалуйста?",
   "priority": "high",
   "notes": "важно для разговора",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "wiederholte",
+  "participle": "wiederholt",
+  "aux": "haben"
  },
  {
   "id": "wl-3b-33-30-30-2t-32",
@@ -4585,9 +4585,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "wollte",
+  "participle": "gewollt",
+  "aux": "haben"
  },
  {
   "id": "wl-3e-39-2u-36-2x-2t-2s-2t-32",
@@ -4598,7 +4598,7 @@
   "english": "satisfied",
   "level": "A1",
   "topic": "Gefühle",
-  "pos": "verb",
+  "pos": "other",
   "exampleDE": "Ich bin mit der Wohnung zufrieden.",
   "exampleRU": "",
   "priority": "high",
@@ -4765,9 +4765,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "beantragte",
+  "participle": "beantragt",
+  "aux": "haben"
  },
  {
   "id": "wl-2p-2q-31-2t-30-2s-2t-32",
@@ -4783,9 +4783,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "meldete ab",
+  "participle": "abgemeldet",
+  "aux": "haben"
  },
  {
   "id": "wl-1u-2t-37-2r-2w-2t-2x-32-2x-2v-39-32-2v",
@@ -5071,9 +5071,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "vereinbarte",
+  "participle": "vereinbart",
+  "aux": "haben"
  },
  {
   "id": "wl-2b-38-2t-39-2t-36",
@@ -5143,9 +5143,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "verlängerte",
+  "participle": "verlängert",
+  "aux": "haben"
  },
  {
   "id": "wl-21-32-38-2t-2v-36-2p-38-2x-33-32-37-2z-39-36-37",
@@ -5268,10 +5268,10 @@
   "exampleDE": "",
   "exampleRU": "",
   "priority": "high",
-  "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "notes": "sich bewerben um + Akkusativ / bei + Dativ",
+  "preterite": "bewarb",
+  "participle": "beworben",
+  "aux": "haben"
  },
  {
   "id": "wl-24-2t-2q-2t-32-37-30-2p-39-2u",
@@ -5521,9 +5521,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "kündigte",
+  "participle": "gekündigt",
+  "aux": "haben"
  },
  {
   "id": "wl-23-70-32-2s-2x-2v-39-32-2v",
@@ -5557,9 +5557,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "schrieb krank",
+  "participle": "krankgeschrieben",
+  "aux": "haben"
  },
  {
   "id": "wl-2b-2r-2w-2x-2r-2w-38",
@@ -6007,9 +6007,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "tat weh",
+  "participle": "wehgetan",
+  "aux": "haben"
  },
  {
   "id": "wl-26-33-38-2u-2p-30-30",
@@ -6079,9 +6079,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "untersuchte",
+  "participle": "untersucht",
+  "aux": "haben"
  },
  {
   "id": "wl-21-31-34-2u-39-32-2v",
@@ -6258,10 +6258,10 @@
   "exampleDE": "",
   "exampleRU": "",
   "priority": "high",
-  "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "notes": "umsteigen in + Akkusativ",
+  "preterite": "stieg um",
+  "participle": "umgestiegen",
+  "aux": "sein"
  },
  {
   "id": "wl-2e-2t-36-37-34-6c-38-39-32-2v",
@@ -6313,9 +6313,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "buchte",
+  "participle": "gebucht",
+  "aux": "haben"
  },
  {
   "id": "wl-2a-2x-2r-2w-38-39-32-2v",
@@ -6384,10 +6384,10 @@
   "exampleDE": "",
   "exampleRU": "",
   "priority": "high",
-  "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "notes": "eine Prüfung bestehen",
+  "preterite": "bestand",
+  "participle": "bestanden",
+  "aux": "haben"
  },
  {
   "id": "wl-2d-32-2x-3a-2t-36-37-2x-38-6c-38",
@@ -6421,9 +6421,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "übte",
+  "participle": "geübt",
+  "aux": "haben"
  },
  {
   "id": "wl-26-33-38-2t",
@@ -6475,9 +6475,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "vergaß",
+  "participle": "vergessen",
+  "aux": "haben"
  },
  {
   "id": "wl-3a-2t-36-37-39-2r-2w-2t-32",
@@ -6493,9 +6493,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "versuchte",
+  "participle": "versucht",
+  "aux": "haben"
  },
  {
   "id": "wl-26-2p-2r-2w-36-2x-2r-2w-38",
@@ -6529,9 +6529,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "sagte ab",
+  "participle": "abgesagt",
+  "aux": "haben"
  },
  {
   "id": "wl-3a-2t-36-37-2r-2w-2x-2t-2q-2t-32",
@@ -6547,9 +6547,9 @@
   "exampleRU": "Можем перенести термин?",
   "priority": "high",
   "notes": "very useful",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "verschob",
+  "participle": "verschoben",
+  "aux": "haben"
  },
  {
   "id": "wl-2t-36-36-2t-2x-2r-2w-2t-32",
@@ -6565,9 +6565,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "erreichte",
+  "participle": "erreicht",
+  "aux": "haben"
  },
  {
   "id": "wl-3e-39-36-70-2r-2z-36-39-2u-2t-32",
@@ -6583,9 +6583,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "rief zurück",
+  "participle": "zurückgerufen",
+  "aux": "haben"
  },
  {
   "id": "wl-37-2r-2w-3b-2x-2t-36-2x-2v",
@@ -6673,9 +6673,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "hoffte",
+  "participle": "gehofft",
+  "aux": "haben"
  },
  {
   "id": "wl-31-2t-2x-32-2t-32",
@@ -6691,9 +6691,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "meinte",
+  "participle": "gemeint",
+  "aux": "haben"
  },
  {
   "id": "wl-25-2t-2x-32-39-32-2v",
@@ -6727,9 +6727,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "stimmte",
+  "participle": "gestimmt",
+  "aux": "haben"
  },
  {
   "id": "wl-1u-2t-37-2r-2w-3b-2t-36-2s-2t",
@@ -6763,9 +6763,9 @@
   "exampleRU": "",
   "priority": "high",
   "notes": "",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "beschwerte",
+  "participle": "beschwert",
+  "aux": "haben"
  },
  {
   "id": "wc-1z-39-38-2t-32-w-2c-2p-2v",
@@ -6889,9 +6889,9 @@
   "exampleRU": "Мне нужно скачать файл.",
   "priority": "medium",
   "notes": "trennbar? actually prefix herunter- forms lade herunter",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "lud herunter",
+  "participle": "heruntergeladen",
+  "aux": "haben"
  },
  {
   "id": "wc-2w-33-2r-2w-30-2p-2s-2t-32",
@@ -6907,9 +6907,9 @@
   "exampleRU": "Пожалуйста, загрузите документ.",
   "priority": "high",
   "notes": "Behörden online forms",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "lud hoch",
+  "participle": "hochgeladen",
+  "aux": "haben"
  },
  {
   "id": "wc-39-32-2v-70-30-38-2x-2v",
@@ -7086,10 +7086,10 @@
   "exampleDE": "Ich möchte mich über den Service beschweren.",
   "exampleRU": "Я хочу пожаловаться на сервис.",
   "priority": "high",
-  "notes": "über + Akk",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "notes": "sich beschweren über + Akkusativ / bei + Dativ",
+  "preterite": "beschwerte sich",
+  "participle": "sich beschwert",
+  "aux": "haben"
  },
  {
   "id": "wc-33-2q-3b-33-2w-30",
@@ -7159,9 +7159,9 @@
   "exampleRU": "Пожалуйста, подайте документы до пятницы.",
   "priority": "high",
   "notes": "trennbar",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "reichte ein",
+  "participle": "eingereicht",
+  "aux": "haben"
  },
  {
   "id": "wc-2d-32-38-2t-36-30-2p-2v-2t",
@@ -7195,9 +7195,9 @@
   "exampleRU": "Копия должна быть заверена.",
   "priority": "high",
   "notes": "passive useful",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "beglaubigte",
+  "participle": "beglaubigt",
+  "aux": "haben"
  },
  {
   "id": "wc-64-2q-2t-36-37-2t-38-3e-39-32-2v",
@@ -7231,9 +7231,9 @@
   "exampleRU": "Моё образование ещё не признали.",
   "priority": "high",
   "notes": "Anerkennung",
-  "preterite": "",
-  "participle": "",
-  "aux": ""
+  "preterite": "erkannte an",
+  "participle": "anerkannt",
+  "aux": "haben"
  },
  {
   "id": "wc-1u-2t-3b-2t-36-2q-39-32-2v-37-37-2r-2w-36-2t-2x-2q-2t-32",
